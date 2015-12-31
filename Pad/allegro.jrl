@@ -1,0 +1,15 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Wed Dec 30 20:54:56 2015
+\t (00:00:01)         Host=WEY User=Administrator Pid=5448 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 1506
+\i (00:00:04) trapsize 1444
+\i (00:00:04) trapsize 1517
+\i (00:00:04) trapsize 1549
+\i (00:00:04) trapsize 1136
+\i (00:00:04) trapsize 1816
+\i (00:00:05) generaledit 
+\i (00:00:21) new 
+\i (00:21:07) newdrawfillin "LQFP48.dra" "Package Symbol (Wizard)"
+\t (00:21:07)     Journal end - Wed Dec 30 21:16:02 2015

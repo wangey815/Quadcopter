@@ -1,0 +1,21 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Wed Dec 30 20:37:52 2015
+\t (00:00:04)         Host=WEY User=Administrator Pid=4288 CPUs=4
+\t (00:00:04) 
+\t (00:00:05) Starting new design...
+\i (00:00:07) trapsize 1506
+\i (00:00:07) trapsize 1444
+\i (00:00:07) trapsize 1517
+\i (00:00:07) trapsize 1549
+\i (00:00:07) trapsize 1136
+\i (00:00:07) trapsize 1816
+\i (00:00:08) generaledit 
+\i (00:00:12) new 
+\i (00:02:49) newdrawfillin "menu_cancel"
+\i (00:02:49) generaledit 
+\i (00:02:51) new 
+\t (00:03:05) last pick:  15900.0  12700.0
+\i (00:04:59) newdrawfillin "menu_cancel"
+\i (00:04:59) generaledit 
+\i (00:05:04) exit 
+\t (00:05:05)     Journal end - Wed Dec 30 20:42:53 2015
