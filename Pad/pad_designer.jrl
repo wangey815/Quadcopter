@@ -1,9 +1,10 @@
-\t (00:00:12) pad_designer 16.6 P001 (v16-6-112A) Windows 32
-\t (00:00:12)     Journal start - Thu Dec 31 15:16:22 2015
-\t (00:00:12)         Host=WEY User=Administrator Pid=2612 CPUs=4
-\t (00:00:12) 
-\i (00:00:14) FORM padedit layers  
-\i (00:00:18) FORM padedit crossbox YES 
-\i (00:00:19) FORM padedit stackbox YES 
-\i (00:00:20) pse_exit
-\t (00:00:20)     Journal end - Thu Dec 31 15:16:30 2015
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 02 17:28:21 2016
+\t (00:00:00)         Host=WEY User=Administrator Pid=12608 CPUs=4
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit layers  
+\i (00:00:05) pse_open 
+\i (00:00:12) fillin "menu_cancel"
+\i (00:00:13) pse_exit
+\t (00:00:13)     Journal end - Sat Jan 02 17:28:35 2016

@@ -1,0 +1,26 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Sat Jan 02 17:28:01 2016
+\t (00:00:01)         Host=WEY User=Administrator Pid=10756 CPUs=4
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Footprint/SOT32-XC6206.dra
+\t (00:00:04) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:04) trapsize 731
+\i (00:00:04) trapsize 711
+\i (00:00:04) trapsize 735
+\i (00:00:04) trapsize 595
+\i (00:00:04) trapsize 595
+\i (00:00:06) generaledit 
+\i (03:13:06) open 
+\i (03:13:11) fillin "menu_cancel"
+\i (03:13:12) generaledit 
+\i (03:13:13) zoom in 1 
+\i (03:13:13) setwindow pcb
+\i (03:13:13) zoom in 4.2482 2.0697
+\i (03:13:13) trapsize 298
+\i (03:13:13) zoom out 1 
+\i (03:13:13) setwindow pcb
+\i (03:13:13) zoom out 3.7957 1.8791
+\i (03:13:13) trapsize 595
+\i (03:13:16) exit 
+\t (03:13:17)     Journal end - Sat Jan 02 20:41:17 2016

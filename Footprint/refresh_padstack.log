@@ -1,0 +1,36 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : LQFP48.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Jan 01 21:46:32 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jan 01 21:46:32 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'LQFP48.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           D:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  D:/用户目录/我的文档/GitHub/Quadcopter/Pad/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+Completed refreshing all pad stacks successfully.
