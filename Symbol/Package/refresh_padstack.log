@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : QFN4x4.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jan 04 17:11:19 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Jan 04 17:11:19 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'QFN4x4.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           D:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  D:/用户目录/我的文档/GitHub/Quadcopter/Pad/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'R0_3X1_0'  pad stack refresh starting.
+
+     'R0_3X1_0'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

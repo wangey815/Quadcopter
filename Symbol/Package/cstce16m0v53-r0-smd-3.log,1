@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CSTCE16M0V53-R0-SMD-3.dra                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jan 17 21:35:15 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/用户目录/我的文档/GitHub/Quadcopter/Footprint
+    Name      = cstce16m0v53-r0-smd-3.psm
+    User      = Administrator
+    Machine   = WEY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
