@@ -1,1133 +1,1367 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Fri Jan 22 09:54:52 2016
-\t (00:00:00)         Host=WEY User=Administrator Pid=5480 CPUs=4
-\t (00:00:00) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/7361-38-V.dra
-\t (00:00:02) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:00:02) trapsize 2341
-\i (00:00:02) trapsize 2276
-\i (00:00:02) trapsize 2352
-\i (00:00:03) trapsize 1906
-\i (00:00:03) trapsize 1906
-\i (00:00:03) generaledit 
-\i (00:00:36) pick grid 4.4114 -2.7429
-\t (00:00:36) last pick:  4.4196  -2.7432
-\i (00:00:38) zoom in 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom in 0.6385 -0.4563
-\t (00:00:38) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:00:38) trapsize 953
-\i (00:00:40) zoom in 1 
-\i (00:00:40) setwindow pcb
-\i (00:00:40) zoom in -0.7906 -3.0478
-\i (00:00:40) trapsize 476
-\i (00:00:41) zoom out 1 
-\i (00:00:41) setwindow pcb
-\i (00:00:41) zoom out -0.7429 -3.0859
-\i (00:00:41) trapsize 953
-\i (00:00:42) drag_start grid -0.9335 -2.9716
-\i (00:00:42) move 
-\t (00:00:42) last pick:  -1.2192  -3.3782
-\t (00:00:42) Pick new location for the element(s).
-\i (00:00:45) drag_stop grid -4.3444 2.6307
-\i (00:00:45) generaledit 
-\i (00:00:46) drag_start grid -0.9526 -3.0668
-\i (00:00:46) move 
-\t (00:00:46) last pick:  -1.0668  -3.2766
-\t (00:00:46) Pick new location for the element(s).
-\i (00:00:48) drag_stop grid -4.3253 2.6688
-\i (00:00:48) generaledit 
-\i (00:00:49) pick grid 5.4119 1.4874
-\t (00:00:49) last pick:  5.4102  1.4986
-\i (00:00:50) zoom out 1 
-\i (00:00:50) setwindow pcb
-\i (00:00:50) zoom out 3.4111 -2.7620
-\t (00:00:50) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:00:50) trapsize 1906
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 4.2114 -4.7436
-\i (00:00:51) trapsize 3811
-\i (00:00:51) zoom out 1 
-\i (00:00:51) setwindow pcb
-\i (00:00:51) zoom out 16.6935 -4.8961
-\t (00:00:51) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:00:51) trapsize 7622
-\i (00:00:52) zoom in 1 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) zoom in 31.4042 -6.1157
-\t (00:00:52) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:00:52) trapsize 3811
-\i (00:00:53) roam x -96 
-\i (00:00:53) roam x -96
-\i (00:00:54) roam x -96 
-\i (00:00:54) roam x -96
-\i (00:00:54) roam x -96 
-\i (00:00:54) roam x -96
-\i (00:00:54) roam y 96 
-\i (00:00:54) roam y 96
-\i (00:00:55) roam x -96 
-\i (00:00:55) roam x -96
-\i (00:00:56) roam x -96 
-\i (00:00:56) roam x -96
-\i (00:00:56) roam x -96 
-\i (00:00:56) roam x -48
-\i (00:00:57) zoom in 1 
-\i (00:00:57) setwindow pcb
-\i (00:00:57) zoom in 7.6232 -6.5540
-\i (00:00:57) trapsize 1906
-\i (00:00:59) save 
-\i (00:01:00) fillin yes 
-\t (00:01:01) Symbol '7361-38-v.psm' created.
-\i (00:01:01) generaledit 
-\i (00:01:25) open 
-\i (00:01:43) fillin "3216-18-A.dra"
-\t (00:01:43) Opening existing design...
-\t (00:01:43) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:01:43) trapsize 920
-\d (00:01:43) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/3216-18-A.dra
-\i (00:01:43) generaledit 
-\i (00:01:44) pick grid 2.4584 -1.8364
-\t (00:01:44) last pick:  2.4638  -1.8288
-\i (00:01:45) drag_start grid -0.5030 -1.4685
-\i (00:01:45) move 
-\t (00:01:45) last pick:  -0.5334  -1.7780
-\t (00:01:45) Pick new location for the element(s).
-\i (00:01:48) drag_stop grid -1.6066 1.0514
-\i (00:01:48) generaledit 
-\i (00:01:50) drag_start grid -0.5030 -1.4685
-\i (00:01:50) move 
-\t (00:01:50) last pick:  -0.5588  -1.8288
-\t (00:01:50) Pick new location for the element(s).
-\i (00:01:52) drag_stop grid -1.5882 1.0514
-\i (00:01:52) generaledit 
-\i (00:01:53) save 
-\i (00:01:54) fillin yes 
-\t (00:01:55) Symbol '3216-18-a.psm' created.
-\i (00:01:55) generaledit 
-\i (00:01:59) open 
-\i (00:02:04) fillin "3528-21-B.dra"
-\t (00:02:04) Opening existing design...
-\t (00:02:04) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:02:04) trapsize 953
-\d (00:02:04) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/3528-21-B.dra
-\i (00:02:04) generaledit 
-\i (00:02:07) drag_start grid -0.6659 -1.1995
-\i (00:02:07) move 
-\t (00:02:07) last pick:  -0.7366  -1.5240
-\t (00:02:07) Pick new location for the element(s).
-\i (00:02:08) drag_stop grid -2.3618 1.1062
-\i (00:02:09) generaledit 
-\i (00:02:10) drag_start grid -0.7421 -1.2566
-\i (00:02:10) move 
-\t (00:02:10) last pick:  -0.7874  -1.5240
-\t (00:02:10) Pick new location for the element(s).
-\i (00:02:11) drag_stop grid -2.3618 1.1253
-\i (00:02:11) generaledit 
-\i (00:02:12) save 
-\i (00:02:13) fillin yes 
-\t (00:02:14) Symbol '3528-21-b.psm' created.
-\i (00:02:14) generaledit 
-\i (00:02:15) save 
-\i (00:02:15) fillin yes 
-\t (00:02:16) Symbol '3528-21-b.psm' created.
-\i (00:02:16) generaledit 
-\i (00:02:20) open 
-\i (00:02:24) fillin "6032-28-C.dra"
-\t (00:02:24) Opening existing design...
-\t (00:02:24) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:02:24) trapsize 953
-\d (00:02:25) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/6032-28-C.dra
-\i (00:02:25) generaledit 
-\i (00:02:26) drag_start grid -0.8337 -1.9808
-\i (00:02:26) move 
-\t (00:02:26) last pick:  -0.8890  -2.3876
-\t (00:02:26) Pick new location for the element(s).
-\i (00:02:28) drag_stop grid -2.9870 1.7540
-\i (00:02:28) generaledit 
-\i (00:02:29) drag_start grid -0.6813 -2.0570
-\i (00:02:29) move 
-\t (00:02:29) last pick:  -0.7874  -2.4638
-\t (00:02:29) Pick new location for the element(s).
-\i (00:02:33) drag_stop grid -2.9870 1.7540
-\i (00:02:33) generaledit 
-\i (00:02:33) save 
-\i (00:02:35) fillin yes 
-\t (00:02:36) Symbol '6032-28-c.psm' created.
-\i (00:02:36) generaledit 
-\i (00:02:37) save 
-\i (00:02:38) fillin yes 
-\t (00:02:39) Symbol '6032-28-c.psm' created.
-\i (00:02:39) generaledit 
-\i (00:02:42) open 
-\i (00:02:47) fillin "7343-31-D.dra"
-\t (00:02:47) Opening existing design...
-\t (00:02:47) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:02:47) trapsize 1906
-\d (00:02:47) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/7343-31-D.dra
-\i (00:02:48) generaledit 
-\i (00:02:49) drag_start grid -0.8373 -3.3526
-\i (00:02:49) move 
-\t (00:02:49) last pick:  -1.0160  -3.5814
-\t (00:02:49) Pick new location for the element(s).
-\i (00:02:50) drag_stop grid -3.3526 1.9066
-\i (00:02:50) generaledit 
-\i (00:02:52) drag_start grid -0.9516 -3.2002
-\i (00:02:52) move 
-\t (00:02:52) last pick:  -1.1430  -3.4544
-\t (00:02:52) Pick new location for the element(s).
-\i (00:02:53) drag_stop grid -3.4669 1.8685
-\i (00:02:53) generaledit 
-\i (00:02:56) drag_start grid -3.1239 2.0591
-\i (00:02:56) move 
-\t (00:02:56) last pick:  -3.4544  1.8796
-\t (00:02:56) Pick new location for the element(s).
-\i (00:03:00) drag_stop grid -3.3526 1.8685
-\i (00:03:00) generaledit 
-\i (00:03:01) pick grid -5.8298 0.7252
-\t (00:03:01) last pick:  -5.8420  0.7366
-\i (00:03:01) save 
-\i (00:03:02) fillin yes 
-\t (00:03:03) Symbol '7343-31-d.psm' created.
-\i (00:03:03) generaledit 
-\i (00:03:04) save 
-\i (00:03:04) fillin yes 
-\t (00:03:05) Symbol '7343-31-d.psm' created.
-\i (00:03:05) generaledit 
-\i (00:03:06) open 
-\i (00:03:11) fillin "7361-38-V.dra"
-\t (00:03:11) Opening existing design...
-\t (00:03:11) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:03:11) trapsize 1906
-\d (00:03:11) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/7361-38-V.dra
-\i (00:03:11) generaledit 
-\i (00:03:14) save 
-\i (00:03:15) fillin yes 
-\t (00:03:16) Symbol '7361-38-v.psm' created.
-\i (00:03:16) generaledit 
-\i (00:03:17) open 
-\i (00:03:21) fillin "CSTCE16M0V53-R0-SMD-3.dra"
-\t (00:03:21) Opening existing design...
-\t (00:03:21) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:03:21) trapsize 460
-\d (00:03:22) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/CSTCE16M0V53-R0-SMD-3.dra
-\i (00:03:22) generaledit 
-\i (00:03:32) drag_start grid -0.3386 -0.1218
-\i (00:03:32) move 
-\t (00:03:32) last pick:  -0.4064  -0.2794
-\t (00:03:32) Pick new location for the element(s).
-\i (00:03:39) drag_stop grid -0.8904 1.1015
-\i (00:03:39) generaledit 
-\i (00:03:41) drag_start grid 0.5628 -0.0298
-\i (00:03:41) move 
-\t (00:03:41) last pick:  0.4826  -0.1778
-\t (00:03:41) Pick new location for the element(s).
-\i (00:03:45) drag_stop grid -0.8812 1.1015
-\i (00:03:45) generaledit 
-\i (00:03:57) save 
-\i (00:03:59) fillin yes 
-\t (00:03:59) Symbol 'cstce16m0v53-r0-smd-3.psm' created.
-\i (00:03:59) generaledit 
-\i (00:04:01) open 
-\i (00:04:05) fillin "LQFP48.dra"
-\t (00:04:05) Opening existing design...
-\t (00:04:05) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:04:05) trapsize 2382
-\d (00:04:05) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/LQFP48.dra
-\i (00:04:05) generaledit 
-\i (00:04:06) pick grid 9.8772 -1.5863
-\t (00:04:06) last pick:  9.8806  -1.5748
-\i (00:04:07) zoom in 1 
-\i (00:04:07) setwindow pcb
-\i (00:04:07) zoom in 4.7802 1.4624
-\t (00:04:07) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:04:07) trapsize 1191
-\i (00:04:08) zoom in 1 
-\i (00:04:08) setwindow pcb
-\i (00:04:08) zoom in 3.2558 1.4624
-\i (00:04:08) trapsize 595
-\i (00:04:08) zoom in 1 
-\i (00:04:08) setwindow pcb
-\i (00:04:08) zoom in 3.2558 1.4624
-\i (00:04:08) trapsize 298
-\i (00:04:08) zoom out 1 
-\i (00:04:08) setwindow pcb
-\i (00:04:08) zoom out 2.7080 1.2600
-\i (00:04:08) trapsize 595
-\i (00:04:08) zoom out 1 
-\i (00:04:08) setwindow pcb
-\i (00:04:08) zoom out 2.6961 1.2243
-\i (00:04:08) trapsize 1191
-\i (00:04:44) pick grid 0.1952 1.5815
-\t (00:04:44) last pick:  0.2032  1.5748
-\i (00:04:45) pick grid dbl 0.1952 1.5815
-\t (00:04:45) last pick:  0.2032  1.5748
-\i (00:04:47) pick grid 2.3388 2.7724
-\t (00:04:47) last pick:  2.3368  2.7686
-\i (00:05:47) pick grid 0.5763 1.3909
-\t (00:05:47) last pick:  0.5842  1.3970
-\i (00:05:48) pick grid 0.3143 1.5577
-\t (00:05:48) last pick:  0.3048  1.5494
-\i (00:05:49) pick grid 2.9342 4.5111
-\t (00:05:49) last pick:  2.9464  4.5212
-\i (00:06:00) open 
-\i (00:06:04) fillin "QFN4x4.dra"
-\t (00:06:04) Opening existing design...
-\t (00:06:04) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:06:04) trapsize 595
-\d (00:06:04) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/QFN4x4.dra
-\i (00:06:04) generaledit 
-\i (00:06:28) open 
-\i (00:06:36) fillin "SOD-323.dra"
-\t (00:06:36) Opening existing design...
-\t (00:06:37) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:06:37) trapsize 380
-\d (00:06:37) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOD-323.dra
-\i (00:06:37) generaledit 
-\i (00:06:45) drag_start grid -0.0560 -1.1592
-\i (00:06:45) move 
-\t (00:06:45) last pick:  -0.4064  -1.3716
-\t (00:06:45) Pick new location for the element(s).
-\i (00:06:45) drag_stop grid -2.0178 -1.0679
-\i (00:06:45) generaledit 
-\i (00:06:47) drag_start grid -0.0180 -1.1896
-\i (00:06:47) move 
-\t (00:06:47) last pick:  -0.3810  -1.4224
-\t (00:06:47) Pick new location for the element(s).
-\i (00:06:49) drag_stop grid 0.4383 -0.1022
-\i (00:06:49) generaledit 
-\i (00:06:50) drag_start grid -1.6452 -0.8018
-\i (00:06:50) move 
-\t (00:06:50) last pick:  -2.0066  -1.0668
-\t (00:06:50) Pick new location for the element(s).
-\i (00:06:52) drag_stop grid -0.3754 -1.4177
-\i (00:06:52) generaledit 
-\i (00:06:59) save 
-\i (00:07:00) fillin yes 
-\t (00:07:01) Symbol 'sod-323.psm' created.
-\i (00:07:01) generaledit 
-\i (00:07:02) open 
-\i (00:07:08) fillin "SOT-23.dra"
-\t (00:07:08) Opening existing design...
-\t (00:07:08) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:07:08) trapsize 595
-\d (00:07:08) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOT-23.dra
-\i (00:07:08) generaledit 
-\i (00:07:13) drag_start grid -0.3165 1.0470
-\i (00:07:13) move 
-\t (00:07:13) last pick:  -0.6858  0.9144
-\t (00:07:13) Pick new location for the element(s).
-\i (00:07:15) drag_stop grid -1.9957 -0.3464
-\i (00:07:15) generaledit 
-\i (00:07:18) save 
-\i (00:07:20) fillin yes 
-\t (00:07:21) Symbol 'sot-23.psm' created.
-\i (00:07:21) generaledit 
-\i (00:07:36) open 
-\i (00:07:46) fillin "SOT23-5.dra"
-\t (00:07:46) Opening existing design...
-\t (00:07:47) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:07:47) trapsize 595
-\d (00:07:47) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOT23-5.dra
-\i (00:07:47) generaledit 
-\i (00:07:49) drag_start grid 0.0807 0.8027
-\i (00:07:49) move 
-\t (00:07:49) last pick:  -0.3302  0.5588
-\t (00:07:49) Pick new location for the element(s).
-\i (00:07:52) drag_stop grid -1.7057 -0.2215
-\i (00:07:52) generaledit 
-\i (00:07:55) save 
-\i (00:07:56) fillin yes 
-\t (00:07:56) Symbol 'sot23-5.psm' created.
-\i (00:07:57) generaledit 
-\i (00:07:58) open 
-\i (00:08:02) fillin "SOT23-6.dra"
-\t (00:08:02) Opening existing design...
-\t (00:08:02) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:08:02) trapsize 595
-\d (00:08:02) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOT23-6.dra
-\i (00:08:02) generaledit 
-\i (00:08:04) drag_start grid 0.0388 1.0495
-\i (00:08:04) move 
-\t (00:08:05) last pick:  -0.3810  0.7366
-\t (00:08:05) Pick new location for the element(s).
-\i (00:08:08) drag_stop grid -0.3423 -1.2371
-\i (00:08:08) generaledit 
-\i (00:08:09) save 
-\i (00:08:10) fillin yes 
-\t (00:08:11) Symbol 'sot23-6.psm' created.
-\i (00:08:11) generaledit 
-\i (00:08:12) open 
-\i (00:08:16) fillin "SOT-23-MMBT5551.dra"
-\t (00:08:16) Opening existing design...
-\t (00:08:16) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:08:16) trapsize 595
-\d (00:08:16) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOT-23-MMBT5551.dra
-\i (00:08:16) generaledit 
-\i (00:08:19) drag_start grid -0.4833 1.1065
-\i (00:08:19) move 
-\t (00:08:19) last pick:  -0.6858  0.9144
-\t (00:08:19) Pick new location for the element(s).
-\i (00:08:21) roam y 16
-\i (00:08:22) drag_stop grid -0.4833 -1.4318
-\i (00:08:22) generaledit 
-\i (00:08:24) save 
-\i (00:08:25) fillin yes 
-\t (00:08:26) Symbol 'sot-23-mmbt5551.psm' created.
-\i (00:08:26) generaledit 
-\i (00:08:26) open 
-\i (00:08:30) fillin "SOT23-XC6206.dra"
-\t (00:08:30) Opening existing design...
-\t (00:08:30) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:08:30) trapsize 1325
-\d (00:08:30) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SOT23-XC6206.dra
-\i (00:08:30) generaledit 
-\i (00:08:31) zoom in 1 
-\i (00:08:31) setwindow pcb
-\i (00:08:31) zoom in 0.1321 0.3258
-\t (00:08:31) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:08:31) trapsize 663
-\i (00:08:31) zoom in 1 
-\i (00:08:31) setwindow pcb
-\i (00:08:31) zoom in 0.2116 0.5644
-\i (00:08:31) trapsize 331
-\i (00:08:33) zoom out 1 
-\i (00:08:33) setwindow pcb
-\i (00:08:33) zoom out 0.5495 0.9023
-\i (00:08:33) trapsize 663
-\i (00:08:35) drag_start grid -0.0998 0.8892
-\i (00:08:35) move 
-\t (00:08:36) last pick:  -0.4064  0.6604
-\t (00:08:36) Pick new location for the element(s).
-\i (00:08:37) drag_stop grid -0.3781 -1.1912
-\i (00:08:37) generaledit 
-\i (00:08:38) save 
-\i (00:08:38) fillin yes 
-\t (00:08:40) Symbol 'sot23-xc6206.psm' created.
-\i (00:08:40) generaledit 
-\i (00:08:41) open 
-\i (00:08:47) fillin "3216-18-A.dra"
-\t (00:08:47) Opening existing design...
-\t (00:08:47) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:08:47) trapsize 920
-\d (00:08:47) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/3216-18-A.dra
-\i (00:08:47) generaledit 
-\i (00:08:48) zoom in 1 
-\i (00:08:48) setwindow pcb
-\i (00:08:48) zoom in -0.5030 0.4076
-\i (00:08:48) trapsize 460
-\i (00:08:49) zoom in 1 
-\i (00:08:49) setwindow pcb
-\i (00:08:49) zoom in -0.5030 0.4077
-\i (00:08:49) trapsize 230
-\i (00:08:49) zoom out 1 
-\i (00:08:49) setwindow pcb
-\i (00:08:49) zoom out -0.5030 0.4077
-\i (00:08:49) trapsize 460
-\i (00:08:49) zoom out 1 
-\i (00:08:49) setwindow pcb
-\i (00:08:49) zoom out -0.5030 0.4077
-\i (00:08:49) trapsize 920
-\i (00:08:51) drag_start grid -1.4962 1.2353
-\i (00:08:51) move 
-\t (00:08:51) last pick:  -1.6002  1.0414
-\t (00:08:51) Pick new location for the element(s).
-\i (00:08:51) drag_stop grid -3.6667 1.2353
-\i (00:08:51) generaledit 
-\i (00:08:53) drag_start grid -1.1284 1.1434
-\i (00:08:53) move 
-\t (00:08:53) last pick:  -1.6002  1.0414
-\t (00:08:53) Pick new location for the element(s).
-\i (00:08:56) drag_stop grid -0.3374 -1.9100
-\i (00:08:56) generaledit 
-\i (00:08:57) drag_start grid -3.3172 1.4009
-\i (00:08:57) move 
-\t (00:08:57) last pick:  -3.6576  1.2446
-\t (00:08:57) Pick new location for the element(s).
-\i (00:08:59) drag_stop grid -1.5698 1.0514
-\i (00:08:59) generaledit 
-\i (00:09:00) save 
-\i (00:09:01) fillin yes 
-\t (00:09:01) Symbol '3216-18-a.psm' created.
-\i (00:09:01) generaledit 
-\i (00:09:02) open 
-\i (00:09:07) fillin "3528-21-B.dra"
-\t (00:09:07) Opening existing design...
-\t (00:09:07) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:09:07) trapsize 953
-\d (00:09:07) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/3528-21-B.dra
-\i (00:09:07) generaledit 
-\i (00:09:07) pick grid 3.5262 -1.1995
-\t (00:09:07) last pick:  3.5306  -1.1938
-\i (00:09:09) drag_start grid -2.1332 1.3539
-\i (00:09:09) move 
-\t (00:09:09) last pick:  -2.3622  1.1176
-\t (00:09:09) Pick new location for the element(s).
-\i (00:09:09) drag_stop grid -4.6866 1.3539
-\i (00:09:09) generaledit 
-\i (00:09:11) drag_start grid -1.8473 1.3730
-\i (00:09:11) move 
-\t (00:09:11) last pick:  -2.3622  1.1176
-\t (00:09:11) Pick new location for the element(s).
-\i (00:09:14) drag_stop grid -0.5516 -1.7140
-\i (00:09:14) generaledit 
-\i (00:09:14) pick grid 2.8784 -1.1995
-\t (00:09:14) last pick:  2.8702  -1.1938
-\i (00:09:15) drag_start grid -4.3245 1.5826
-\i (00:09:15) move 
-\t (00:09:15) last pick:  -4.6990  1.3462
-\t (00:09:15) Pick new location for the element(s).
-\i (00:09:16) drag_stop grid -2.1903 1.1443
-\i (00:09:16) generaledit 
-\i (00:09:17) save 
-\i (00:09:18) fillin yes 
-\t (00:09:19) Symbol '3528-21-b.psm' created.
-\i (00:09:19) generaledit 
-\i (00:09:20) open 
-\i (00:09:24) fillin "6032-28-C.dra"
-\t (00:09:24) Opening existing design...
-\t (00:09:24) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:09:24) trapsize 953
-\d (00:09:24) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/6032-28-C.dra
-\i (00:09:24) generaledit 
-\i (00:09:25) pick grid -3.0060 -0.0562
-\t (00:09:25) last pick:  -2.9972  -0.0508
-\i (00:09:26) drag_start grid -2.6249 2.0970
-\i (00:09:26) move 
-\t (00:09:26) last pick:  -2.9972  1.7526
-\t (00:09:26) Pick new location for the element(s).
-\i (00:09:26) drag_stop grid -6.1882 1.6968
-\i (00:09:26) generaledit 
-\i (00:09:27) drag_start grid -2.7774 1.9065
-\i (00:09:27) move 
-\t (00:09:27) last pick:  -2.9972  1.7526
-\t (00:09:27) Pick new location for the element(s).
-\i (00:09:30) drag_stop grid -0.4145 -2.5906
-\i (00:09:30) generaledit 
-\i (00:09:31) drag_start grid -5.7119 1.9065
-\i (00:09:31) move 
-\t (00:09:31) last pick:  -6.1976  1.7018
-\t (00:09:31) Pick new location for the element(s).
-\i (00:09:32) drag_stop grid -2.5296 1.7540
-\i (00:09:32) generaledit 
-\i (00:09:33) save 
-\i (00:09:34) fillin yes 
-\t (00:09:34) Symbol '6032-28-c.psm' created.
-\i (00:09:35) generaledit 
-\i (00:09:36) open 
-\i (00:09:41) fillin "7343-31-D.dra"
-\t (00:09:41) Opening existing design...
-\t (00:09:41) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:09:41) trapsize 1906
-\d (00:09:41) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/7343-31-D.dra
-\i (00:09:41) generaledit 
-\i (00:09:42) pick grid 5.6415 -1.5614
-\t (00:09:42) last pick:  5.6388  -1.5494
-\i (00:09:44) drag_start grid -3.1239 2.3258
-\i (00:09:44) move 
-\t (00:09:44) last pick:  -3.3528  1.9050
-\t (00:09:44) Pick new location for the element(s).
-\i (00:09:44) drag_stop grid -6.4395 1.9828
-\i (00:09:44) generaledit 
-\i (00:09:45) drag_start grid -2.8953 2.1353
-\i (00:09:45) move 
-\t (00:09:45) last pick:  -3.3528  1.8796
-\t (00:09:45) Pick new location for the element(s).
-\i (00:09:47) drag_stop grid -0.4181 -3.3908
-\i (00:09:47) generaledit 
-\i (00:09:48) drag_start grid -6.0584 2.3258
-\i (00:09:48) move 
-\t (00:09:48) last pick:  -6.4516  1.9812
-\t (00:09:48) Pick new location for the element(s).
-\i (00:09:49) drag_stop grid -3.2001 1.9828
-\i (00:09:49) generaledit 
-\i (00:09:49) pick grid 8.1187 -0.0370
-\t (00:09:49) last pick:  8.1280  -0.0254
-\i (00:09:50) save 
-\i (00:09:51) fillin yes 
-\t (00:09:52) Symbol '7343-31-d.psm' created.
-\i (00:09:52) generaledit 
-\i (00:09:53) open 
-\i (00:09:58) fillin "7361-38-V.dra"
-\t (00:09:58) Opening existing design...
-\t (00:09:58) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:09:58) trapsize 1906
-\d (00:09:58) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/7361-38-V.dra
-\i (00:09:58) generaledit 
-\i (00:10:00) drag_start grid -4.1148 3.0118
-\i (00:10:00) move 
-\t (00:10:00) last pick:  -4.3434  2.6416
-\t (00:10:00) Pick new location for the element(s).
-\i (00:10:00) drag_stop grid -7.6210 2.0209
-\i (00:10:00) generaledit 
-\i (00:10:01) drag_start grid -3.9243 3.0118
-\i (00:10:01) move 
-\t (00:10:01) last pick:  -4.3180  2.6670
-\t (00:10:01) Pick new location for the element(s).
-\i (00:10:03) drag_stop grid -0.4562 -3.4289
-\i (00:10:03) generaledit 
-\i (00:10:04) drag_start grid -7.3161 2.3639
-\i (00:10:04) move 
-\t (00:10:04) last pick:  -7.6200  2.0320
-\t (00:10:04) Pick new location for the element(s).
-\i (00:10:05) drag_stop grid -4.3435 2.5925
-\i (00:10:05) generaledit 
-\i (00:10:06) save 
-\i (00:10:07) fillin yes 
-\t (00:10:08) Symbol '7361-38-v.psm' created.
-\i (00:10:08) generaledit 
-\i (00:10:09) open 
-\i (00:10:15) fillin "CSTCE16M0V53-R0-SMD-3.dra"
-\t (00:10:15) Opening existing design...
-\t (00:10:15) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:10:15) trapsize 460
-\d (00:10:15) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/CSTCE16M0V53-R0-SMD-3.dra
-\i (00:10:15) generaledit 
-\i (00:10:17) drag_start grid -0.8260 1.4694
-\i (00:10:17) move 
-\t (00:10:17) last pick:  -0.8890  1.0922
-\t (00:10:17) Pick new location for the element(s).
-\i (00:10:17) drag_stop grid -1.7366 1.2487
-\i (00:10:17) generaledit 
-\i (00:10:19) drag_start grid -1.3687 1.5338
-\i (00:10:19) move 
-\t (00:10:19) last pick:  -1.7272  1.2446
-\t (00:10:19) Pick new location for the element(s).
-\i (00:10:20) drag_stop grid 0.5168 -0.3057
-\i (00:10:20) generaledit 
-\i (00:10:21) save 
-\i (00:10:22) fillin yes 
-\t (00:10:23) Symbol 'cstce16m0v53-r0-smd-3.psm' created.
-\i (00:10:23) generaledit 
-\i (00:10:24) open 
-\i (00:10:28) fillin "LQFP48.dra"
-\t (00:10:28) Opening existing design...
-\t (00:10:28) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:10:28) trapsize 2382
-\d (00:10:29) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/LQFP48.dra
-\i (00:10:29) generaledit 
-\i (00:10:31) open 
-\i (00:10:41) fillin "0201C.dra"
-\t (00:10:41) Opening existing design...
-\i (00:10:41) trapsize 119
-\d (00:10:41) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/0201C.dra
-\i (00:10:41) generaledit 
-\i (00:11:07) pick grid 0.7758 0.1607
-\t (00:11:07) last pick:  0.7874  0.1524
-\i (00:11:09) open 
-\i (00:11:14) fillin "0201.dra"
-\t (00:11:14) Opening existing design...
-\i (00:11:14) trapsize 119
-\d (00:11:14) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/0201.dra
-\i (00:11:14) generaledit 
-\i (00:11:17) roam x -96 
-\i (00:11:17) roam x -96
-\i (00:11:17) roam x -96 
-\i (00:11:17) roam x -96
-\i (00:11:17) roam x -96 
-\i (00:11:17) roam x -96
-\i (00:11:17) roam x -96 
-\i (00:11:17) roam x -96
-\i (00:11:34) drag_start grid 0.5209 -0.1863
-\i (00:11:34) move 
-\t (00:11:34) last pick:  -0.2794  -0.3810
-\t (00:11:34) Pick new location for the element(s).
-\i (00:11:35) drag_stop grid 0.4542 -0.1601
-\i (00:11:35) generaledit 
-\i (00:11:36) drag_start grid 0.9019 0.0400
-\i (00:11:36) move 
-\t (00:11:37) last pick:  0.4572  -0.1524
-\t (00:11:37) Pick new location for the element(s).
-\i (00:11:38) drag_stop grid -0.4890 0.2591
-\i (00:11:38) generaledit 
-\i (00:11:39) drag_start grid 0.4685 -0.2935
-\i (00:11:39) move 
-\t (00:11:39) last pick:  -0.3048  -0.4826
-\t (00:11:39) Pick new location for the element(s).
-\i (00:11:41) drag_stop grid -0.4223 -0.5840
-\i (00:11:41) generaledit 
-\i (00:11:41) pick grid 1.1139 -0.1601
-\t (00:11:41) last pick:  1.1176  -0.1524
-\i (00:12:27) pick grid -0.1984 -0.2458
-\t (00:12:27) last pick:  -0.2032  -0.2540
-\i (00:12:28) pick grid 0.6590 -0.1148
-\t (00:12:28) last pick:  0.6604  -0.1270
-\i (00:12:32) pick grid -0.2389 -0.2220
-\t (00:12:32) last pick:  -0.2286  -0.2286
-\i (00:12:36) delete 
-\i (00:12:36) generaledit 
-\i (00:12:37) pick grid 0.2065 -0.2601
-\t (00:12:37) last pick:  0.2032  -0.2540
-\i (00:12:39) delete 
-\i (00:12:39) generaledit 
-\i (00:12:40) pick grid -0.2461 -0.2411
-\t (00:12:40) last pick:  -0.2540  -0.2286
-\i (00:12:42) delete 
-\i (00:12:42) generaledit 
-\i (00:12:43) pick grid 0.2422 -0.2411
-\t (00:12:43) last pick:  0.2540  -0.2286
-\i (00:12:44) delete 
-\i (00:12:44) generaledit 
-\i (00:12:46) pick grid -0.2723 0.0328
-\t (00:12:46) last pick:  -0.2794  0.0254
-\i (00:12:47) delete 
-\i (00:12:47) generaledit 
-\i (00:12:48) pick grid -0.2175 0.0281
-\t (00:12:48) last pick:  -0.2286  0.0254
-\i (00:12:49) delete 
-\i (00:12:49) generaledit 
-\i (00:12:50) zoom out 1 
-\i (00:12:50) setwindow pcb
-\i (00:12:50) zoom out 0.1779 -0.3316
-\i (00:12:50) trapsize 238
-\i (00:12:50) zoom out 1 
-\i (00:12:50) setwindow pcb
-\i (00:12:50) zoom out 0.1922 -0.3649
-\t (00:12:50) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:12:50) trapsize 476
-\i (00:12:50) zoom in 1 
-\i (00:12:50) setwindow pcb
-\i (00:12:50) zoom in 0.1350 -0.4029
-\i (00:12:50) trapsize 238
-\i (00:12:51) pick grid -0.2127 -0.5839
-\t (00:12:51) last pick:  -0.2032  -0.5842
-\i (00:12:53) delete 
-\i (00:12:53) generaledit 
-\i (00:12:54) pick grid -0.2413 -0.5649
-\t (00:12:54) last pick:  -0.2286  -0.5588
-\i (00:12:55) delete 
-\i (00:12:55) generaledit 
-\i (00:12:57) zoom in 1 
-\i (00:12:57) setwindow pcb
-\i (00:12:57) zoom in 0.3875 -0.5458
-\i (00:12:57) trapsize 119
-\i (00:12:57) zoom in 1 
-\i (00:12:57) setwindow pcb
-\i (00:12:57) zoom in 0.3875 -0.5458
-\i (00:12:57) trapsize 60
-\i (00:12:57) zoom out 1 
-\i (00:12:57) setwindow pcb
-\i (00:12:57) zoom out 0.2303 -0.5363
-\i (00:12:57) trapsize 119
-\i (00:12:58) zoom out 1 
-\i (00:12:58) setwindow pcb
-\i (00:12:58) zoom out 0.2279 -0.5363
-\i (00:12:58) trapsize 238
-\i (00:13:03) zoom in 1 
-\i (00:13:03) setwindow pcb
-\i (00:13:03) zoom in -0.3151 -0.0646
-\i (00:13:03) trapsize 119
-\i (00:17:00) show measure 
-\i (00:17:01) pick grid -0.0079 -0.0050
-\t (00:17:01) last pick:  0.0000  0.0000
-\i (00:17:03) pick grid -0.0079 -0.5457
-\t (00:17:03) last pick:  0.0000  -0.5334
-\i (00:18:09) setwindow text
-\i (00:18:09) close 
-\i (00:18:11) setwindow pcb
-\i (00:18:11) add line 
-\i (00:18:15) setwindow form.mini
-\i (00:18:15) FORM mini class PACKAGE GEOMETRY 
-\i (00:18:20) FORM mini line_width 0.1000 
-\i (00:18:31) setwindow pcb
-\i (00:18:31) pick -0.4 -0.125 
-\t (00:18:31) last pick:  -0.4000  -0.1250
-\i (00:19:19) pick -0.4 0.125 
-\t (00:19:19) last pick:  -0.4000  0.1250
-\i (00:19:35) pick -0.4 0.325 
-\t (00:19:35) last pick:  -0.4000  0.3250
-\i (00:19:55) pick 0.4 0.325 
-\t (00:19:55) last pick:  0.4000  0.3250
-\i (00:20:08) pick 0.4 -0.125 
-\t (00:20:08) last pick:  0.4000  -0.1250
-\i (00:20:10) prepopup 0.8281 0.1569
-\i (00:20:11) done 
-\i (00:20:11) generaledit 
-\i (00:20:15) add line 
-\i (00:20:20) setwindow form.mini
-\i (00:20:20) FORM mini subclass SILKSCREEN_TOP 
-\i (00:20:24) FORM mini line_width 0.2000 
-\i (00:20:35) setwindow pcb
-\i (00:20:35) pick -0.4 0.125 
-\t (00:20:35) last pick:  -0.4000  0.1250
-\i (00:20:40) prepopup -0.9629 -0.2170
-\i (00:20:41) next 
-\i (00:20:41) prepopup -0.9248 -0.0931
-\i (00:20:42) cancel 
-\i (00:20:42) generaledit 
-\i (00:20:45) add line 
-\i (00:20:54) pick -0.4 -0.125 
-\t (00:20:54) last pick:  -0.4000  -0.1250
-\i (00:21:04) pick -0.4 -.325 
-\t (00:21:04) last pick:  -0.4000  -0.3250
-\i (00:21:07) prepopup -0.7176 -0.2075
-\i (00:21:08) cancel 
-\i (00:21:08) generaledit 
-\i (00:21:17) pick -0.4 -0.125 
-\t (00:21:17) last pick:  -0.4000  -0.1250
-\i (00:21:20) prepopup -0.7938 0.0736
-\i (00:21:20) pick grid -0.9201 -0.0384
-\t (00:21:20) last pick:  -0.9144  -0.0508
-\i (00:21:22) add line 
-\i (00:21:33) pick -0.4 -0.125 
-\t (00:21:33) last pick:  -0.4000  -0.1250
-\i (00:21:41) pick -0.4 0.325 
-\t (00:21:41) last pick:  -0.4000  0.3250
-\i (00:21:48) pick 0.4 0.325 
-\t (00:21:48) last pick:  0.4000  0.3250
-\i (00:21:56) pick 0.4 -0.125 
-\t (00:21:56) last pick:  0.4000  -0.1250
-\i (00:21:58) prepopup 0.7781 -0.0265
-\i (00:21:59) done 
-\i (00:21:59) generaledit 
-\i (00:22:02) roam y 96 
-\i (00:22:02) roam y 96
-\i (00:22:09) zoom in 1 
-\i (00:22:09) setwindow pcb
-\i (00:22:09) zoom in 0.7352 -0.3818
-\i (00:22:09) trapsize 60
-\i (00:22:10) zoom out 1 
-\i (00:22:10) setwindow pcb
-\i (00:22:10) zoom out 0.6887 -0.3972
-\i (00:22:10) trapsize 119
-\i (00:22:10) zoom out 1 
-\i (00:22:10) setwindow pcb
-\i (00:22:10) zoom out 0.6888 -0.3996
-\i (00:22:10) trapsize 238
-\i (00:23:01) add line 
-\i (00:23:24) add line 
-\i (00:23:30) setwindow form.mini
-\i (00:23:30) FORM mini subclass ASSEMBLY_TOP 
-\i (00:23:34) FORM mini line_width 0.1000 
-\i (00:23:35) FORM mini lock_direction Off 
-\i (00:23:45) setwindow pcb
-\i (00:23:45) pick -0.4 -0.425 
-\t (00:23:45) last pick:  -0.4000  -0.4250
-\i (00:23:53) pick -0.4 -0.875 
-\t (00:23:53) last pick:  -0.4000  -0.8750
-\i (00:24:17) pick 0.4 -0.875 
-\t (00:24:17) last pick:  0.4000  -0.8750
-\i (00:24:28) pick 0.4 -0.425 
-\t (00:24:28) last pick:  0.4000  -0.4250
-\i (00:24:30) prepopup 1.3939 -0.0996
-\i (00:24:31) done 
-\i (00:24:31) generaledit 
-\i (00:24:40) add line 
-\i (00:24:49) setwindow form.mini
-\i (00:24:49) FORM mini lock_direction 45 
-\i (00:24:53) FORM mini lock_direction 90 
-\i (00:25:05) FORM mini subclass SILKSCREEN_TOP 
-\i (00:25:09) FORM mini line_width 0.2000 
-\i (00:25:19) setwindow pcb
-\i (00:25:19) pick -0.4 -0.425 
-\t (00:25:19) last pick:  -0.4000  -0.4250
-\i (00:25:27) pick -0.4 -0.875 
-\t (00:25:27) last pick:  -0.4000  -0.8750
-\i (00:25:34) pick 0.4 -0.875 
-\t (00:25:34) last pick:  0.4000  -0.8750
-\i (00:25:45) pick 0.4 -0.425 
-\t (00:25:45) last pick:  0.4000  -0.4250
-\i (00:25:48) prepopup 1.2605 -0.5664
-\i (00:25:49) done 
-\i (00:25:49) generaledit 
-\i (00:25:54) zoom out 1 
-\i (00:25:54) setwindow pcb
-\i (00:25:54) zoom out 0.8175 -0.4140
-\i (00:25:54) trapsize 476
-\i (00:25:54) zoom out 1 
-\i (00:25:54) setwindow pcb
-\i (00:25:54) zoom out 0.8080 -0.4235
-\i (00:25:54) trapsize 953
-\i (00:25:54) zoom in 1 
-\i (00:25:54) setwindow pcb
-\i (00:25:54) zoom in 0.9604 -0.6330
-\i (00:25:54) trapsize 476
-\i (00:25:55) zoom in 1 
-\i (00:25:55) setwindow pcb
-\i (00:25:55) zoom in 0.7984 -0.6425
-\i (00:25:55) trapsize 238
-\i (00:25:55) zoom in 1 
-\i (00:25:55) setwindow pcb
-\i (00:25:55) zoom in 0.7985 -0.6425
-\i (00:25:55) trapsize 119
-\i (00:25:56) zoom out 1 
-\i (00:25:56) setwindow pcb
-\i (00:25:56) zoom out 0.6151 -0.6258
-\i (00:25:56) trapsize 238
-\i (00:26:04) zoom out 1 
-\i (00:26:04) setwindow pcb
-\i (00:26:04) zoom out 1.3011 0.0030
-\i (00:26:04) trapsize 476
-\i (00:26:05) zoom in 1 
-\i (00:26:05) setwindow pcb
-\i (00:26:05) zoom in 1.3011 0.0031
-\i (00:26:05) trapsize 238
-\i (00:26:13) save 
-\i (00:26:14) fillin yes 
-\t (00:26:15) Symbol '0201.psm' created.
-\i (00:26:15) generaledit 
-\i (00:26:31) pick grid -0.8329 -0.1684
-\t (00:26:31) last pick:  -0.8382  -0.1778
-\i (00:26:34) open 
-\i (00:26:36) fillin "0201C.dra"
-\t (00:26:36) Opening existing design...
-\i (00:26:36) trapsize 119
-\d (00:26:36) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/0201C.dra
-\i (00:26:36) generaledit 
-\i (00:26:40) pick grid -0.2483 -0.1894
-\t (00:26:40) last pick:  -0.2540  -0.1778
-\e (00:26:41) Command not found: Del
-\e (00:26:42) Command not found: Del
-\i (00:26:44) delete 
-\i (00:26:44) generaledit 
-\i (00:26:45) pick grid -0.1459 0.0107
-\t (00:26:45) last pick:  -0.1524  0.0000
-\i (00:26:46) delete 
-\i (00:26:46) generaledit 
-\i (00:26:48) pick grid -0.2221 0.0345
-\t (00:26:48) last pick:  -0.2286  0.0254
-\i (00:26:49) delete 
-\i (00:26:49) generaledit 
-\i (00:26:50) pick grid 0.1209 -0.2275
-\t (00:26:50) last pick:  0.1270  -0.2286
-\i (00:26:55) pick grid 0.2137 -0.4561
-\t (00:26:55) last pick:  0.2032  -0.4572
-\i (00:26:57) delete 
-\i (00:26:57) generaledit 
-\i (00:26:59) pick grid 0.2304 -0.4775
-\t (00:26:59) last pick:  0.2286  -0.4826
-\i (00:27:00) delete 
-\i (00:27:00) generaledit 
-\i (00:27:02) pick grid -0.2173 -0.1465
-\t (00:27:02) last pick:  -0.2286  -0.1524
-\i (00:27:03) delete 
-\i (00:27:03) generaledit 
-\i (00:27:04) pick grid -0.2054 -0.5371
-\t (00:27:04) last pick:  -0.2032  -0.5334
-\i (00:27:06) delete 
-\i (00:27:06) generaledit 
-\i (00:27:07) pick grid -0.2221 -0.5847
-\t (00:27:07) last pick:  -0.2286  -0.5842
-\i (00:27:08) delete 
-\i (00:27:08) generaledit 
-\i (00:27:17) add line 
-\i (00:27:23) setwindow form.mini
-\i (00:27:23) FORM mini subclass ASSEMBLY_TOP 
-\i (00:27:37) setwindow pcb
-\i (00:27:37) pick -0.4 -0.125 
-\t (00:27:37) last pick:  -0.4000  -0.1250
-\i (00:27:48) pick -0.4 0.325 
-\t (00:27:48) last pick:  -0.4000  0.3250
-\i (00:27:57) pick 0.4 0.325 
-\t (00:27:57) last pick:  0.4000  0.3250
-\i (00:28:03) pick 0.4 -0.125 
-\t (00:28:03) last pick:  0.4000  -0.1250
-\i (00:28:06) prepopup 1.2044 -0.1155
-\i (00:28:07) done 
-\i (00:28:07) generaledit 
-\i (00:28:12) add line 
-\i (00:28:21) pick -0.4 -0.425 
-\t (00:28:21) last pick:  -0.4000  -0.4250
-\i (00:28:28) pick -0.4 -0.875 
-\t (00:28:28) last pick:  -0.4000  -0.8750
-\i (00:28:35) pick 0.4 -0.875 
-\t (00:28:35) last pick:  0.4000  -0.8750
-\i (00:28:45) pick 0.4 -0.425 
-\t (00:28:45) last pick:  0.4000  -0.4250
-\i (00:28:47) prepopup 1.2163 -0.4942
-\i (00:28:48) done 
-\i (00:28:49) generaledit 
-\i (00:28:50) zoom out 1 
-\i (00:28:50) setwindow pcb
-\i (00:28:50) zoom out 0.6948 -0.4609
-\i (00:28:50) trapsize 238
-\i (00:28:56) drag_start grid -0.2625 -0.3513
-\i (00:28:56) move 
-\t (00:28:57) last pick:  -0.3048  -0.4826
-\t (00:28:57) Pick new location for the element(s).
-\i (00:28:57) drag_stop grid -1.4819 -0.3894
-\i (00:28:57) generaledit 
-\i (00:28:59) drag_start grid 0.4329 -0.2322
-\i (00:28:59) move 
-\t (00:28:59) last pick:  -0.2794  -0.3810
-\t (00:28:59) Pick new location for the element(s).
-\i (00:29:01) drag_stop grid -0.9913 0.3870
-\i (00:29:01) generaledit 
-\i (00:29:02) drag_start grid -1.1199 0.0203
-\i (00:29:02) move 
-\t (00:29:02) last pick:  -1.4732  -0.3810
-\t (00:29:02) Pick new location for the element(s).
-\i (00:29:04) drag_stop grid -0.4054 -0.5465
-\i (00:29:04) generaledit 
-\i (00:29:05) pick grid 1.4617 0.1012
-\t (00:29:05) last pick:  1.4732  0.1016
-\i (00:29:07) add line 
-\i (00:29:12) setwindow form.mini
-\i (00:29:12) FORM mini subclass SILKSCREEN_TOP 
-\i (00:29:15) FORM mini line_width 0.2000 
-\i (00:29:30) setwindow pcb
-\i (00:29:30) pick -0.4 0.125 
-\t (00:29:30) last pick:  -0.4000  0.1250
-\i (00:29:33) prepopup -1.2914 -0.4894
-\i (00:29:34) cancel 
-\i (00:29:34) generaledit 
-\i (00:29:36) add line 
-\i (00:29:44) pick -0.4 -0.125 
-\t (00:29:44) last pick:  -0.4000  -0.1250
-\i (00:29:52) pick -0.4 0.125 
-\t (00:29:52) last pick:  -0.4000  0.1250
-\i (00:30:01) pick -0.4 0.325 
-\t (00:30:01) last pick:  -0.4000  0.3250
-\i (00:30:09) pick 0.4 0.325 
-\t (00:30:09) last pick:  0.4000  0.3250
-\i (00:30:16) pick 0.4 -0.125 
-\t (00:30:16) last pick:  0.4000  -0.1250
-\i (00:30:18) prepopup 1.1045 0.3489
-\i (00:30:19) done 
-\i (00:30:19) generaledit 
-\i (00:30:23) add line 
-\i (00:30:30) add line 
-\i (00:30:44) pick -0.4 -0.425 
-\t (00:30:44) last pick:  -0.4000  -0.4250
-\i (00:30:51) pick -0.4 -0.875 
-\t (00:30:51) last pick:  -0.4000  -0.8750
-\i (00:30:57) pick 0.4 -0.875 
-\t (00:30:57) last pick:  0.4000  -0.8750
-\i (00:31:11) pick 0.4 -0.425 
-\t (00:31:11) last pick:  0.4000  -0.4250
-\i (00:31:14) prepopup 1.4093 -0.0417
-\i (00:31:14) done 
-\i (00:31:14) generaledit 
-\i (00:31:15) zoom in 1 
-\i (00:31:15) setwindow pcb
-\i (00:31:15) zoom in 0.2138 -0.3513
-\i (00:31:15) trapsize 119
-\i (00:31:21) zoom out 1 
-\i (00:31:21) setwindow pcb
-\i (00:31:21) zoom out 0.7329 -0.2679
-\i (00:31:21) trapsize 238
-\i (00:31:23) save 
-\i (00:31:24) fillin yes 
-\t (00:31:25) Symbol '0201c.psm' created.
-\i (00:31:25) generaledit 
-\i (00:31:49) open 
-\i (00:31:51) fillin "0402.dra"
-\t (00:31:51) Opening existing design...
-\i (00:31:52) trapsize 230
-\d (00:31:52) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/0402.dra
-\i (00:31:52) generaledit 
-\i (00:31:58) pick grid -0.3855 -0.3722
-\t (00:31:58) last pick:  -0.3810  -0.3810
-\i (00:32:00) delete 
-\i (00:32:00) generaledit 
-\i (00:32:04) pick grid -0.3809 0.0232
-\t (00:32:04) last pick:  -0.3810  0.0254
-\i (00:32:05) delete 
-\i (00:32:06) generaledit 
-\i (00:32:09) pick grid -0.4039 -0.9837
-\t (00:32:09) last pick:  -0.4064  -0.9906
-\i (00:32:11) delete 
-\i (00:32:11) generaledit 
-\i (00:32:12) pick grid -0.3855 -0.9700
-\t (00:32:12) last pick:  -0.3810  -0.9652
-\i (00:32:13) delete 
-\i (00:32:13) generaledit 
-\i (00:32:15) pick grid 0.3732 -0.9056
-\t (00:32:15) last pick:  0.3810  -0.9144
-\i (00:32:16) delete 
-\i (00:32:16) generaledit 
-\i (00:32:25) pick grid -0.3073 -0.4917
-\t (00:32:25) last pick:  -0.3048  -0.4826
-\i (00:32:26) pick grid -0.3855 -0.5147
-\t (00:32:26) last pick:  -0.3810  -0.5080
-\i (00:32:27) delete 
-\i (00:32:27) generaledit 
-\i (00:32:29) pick grid -0.3579 0.0508
-\t (00:32:29) last pick:  -0.3556  0.0508
-\i (00:32:30) delete 
-\i (00:32:30) generaledit 
-\i (00:32:33) pick grid 0.3686 0.0278
-\t (00:32:33) last pick:  0.3810  0.0254
-\i (00:32:34) delete 
-\i (00:32:34) generaledit 
-\i (00:33:24) show measure 
-\i (00:33:25) pick grid -0.0039 0.0095
-\t (00:33:25) last pick:  0.0000  0.0000
-\i (00:33:27) pick grid -0.0406 -0.9883
-\t (00:33:27) last pick:  -0.0508  -0.9906
-\i (00:35:38) setwindow text
-\i (00:35:38) close 
-\i (00:35:39) setwindow pcb
-\i (00:35:39) pick grid -0.9971 -1.4390
-\t (00:35:39) last pick:  -0.9906  -1.4478
-\i (00:35:40) setwindow text
-\i (00:35:40) close 
-\i (00:35:44) setwindow pcb
-\i (00:35:44) add line 
-\i (00:35:49) setwindow form.mini
-\i (00:35:49) FORM mini class PACKAGE GEOMETRY 
-\i (00:35:54) FORM mini line_width 0.1000 
-\i (00:36:07) setwindow pcb
-\i (00:36:07) pick -0.55 0.425 
-\t (00:36:07) last pick:  -0.5500  0.4250
-\i (00:36:10) zoom in 1 
-\i (00:36:10) setwindow pcb
-\i (00:36:10) zoom in 0.0513 -0.2618
-\i (00:36:10) trapsize 115
-\i (00:36:11) zoom out 1 
-\i (00:36:11) setwindow pcb
-\i (00:36:11) zoom out 0.0260 -0.2733
-\i (00:36:11) trapsize 230
-\i (00:36:11) zoom out 1 
-\i (00:36:11) setwindow pcb
-\i (00:36:11) zoom out 0.0260 -0.2733
-\t (00:36:11) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:36:11) trapsize 460
-\i (00:36:12) prepopup -1.3993 -0.8895
-\i (00:36:12) cancel 
-\i (00:36:13) generaledit 
-\i (00:36:23) pick -0.55 -0.225 
-\t (00:36:23) last pick:  -0.5500  -0.2250
-\i (00:36:26) add line 
-\i (00:36:39) pick -0.55 -0.225 
-\t (00:36:39) last pick:  -0.5500  -0.2250
-\i (00:36:49) pick -0.55 0.425 
-\t (00:36:49) last pick:  -0.5500  0.4250
-\i (00:36:57) pick 0.55 0.425 
-\t (00:36:57) last pick:  0.5500  0.4250
-\i (00:37:07) pick 0.55 -0.225 
-\t (00:37:07) last pick:  0.5500  -0.2250
-\i (00:37:10) prepopup 1.4056 -0.3101
-\i (00:37:10) done 
-\i (00:37:10) generaledit 
-\i (00:37:18) add line 
-\i (00:37:42) pick -0.55 -0.725 
-\t (00:37:42) last pick:  -0.5500  -0.7250
-\i (00:37:53) pick -0.55 -1.275 
-\t (00:37:53) last pick:  -0.5500  -1.2750
-\i (00:38:01) pick 0.55 -1.275 
-\t (00:38:01) last pick:  0.5500  -1.2750
-\i (00:38:06) zoom out 1 
-\i (00:38:06) setwindow pcb
-\i (00:38:06) zoom out -1.2798 -1.5608
-\i (00:38:06) trapsize 920
-\i (00:38:07) zoom in 1 
-\i (00:38:07) setwindow pcb
-\i (00:38:07) zoom in -1.0406 -1.5609
-\i (00:38:07) trapsize 460
-\i (00:38:07) zoom in 1 
-\i (00:38:07) setwindow pcb
-\i (00:38:07) zoom in -1.0406 -1.5608
-\i (00:38:07) trapsize 230
-\i (00:38:07) zoom in 1 
-\i (00:38:07) setwindow pcb
-\i (00:38:07) zoom in -0.8843 -1.5286
-\i (00:38:07) trapsize 115
-\i (00:38:08) zoom out 1 
-\i (00:38:08) setwindow pcb
-\i (00:38:08) zoom out -0.6820 -1.5286
-\i (00:38:08) trapsize 230
-\i (00:38:08) zoom out 1 
-\i (00:38:08) setwindow pcb
-\i (00:38:08
+\t (00:17:16) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:17:16)     Journal start - Sun Jan 24 15:19:37 2016
+\t (00:17:16)         Host=WEY User=Administrator Pid=7420 CPUs=4
+\t (00:17:16) 
+\d (00:17:16) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SC0603.dra
+\i (00:17:17) generaledit 
+\i (00:17:23) new 
+\i (00:17:37) newdrawfillin "SS12d00G3.dra" "Package Symbol"
+\t (00:17:37) Starting new design...
+\i (00:17:37) trapsize 15244
+\i (00:17:37) trapsize 15244
+\i (00:17:37) generaledit 
+\i (00:17:40) prmed 
+\i (00:17:41) setwindow form.prmedit
+\i (00:17:41) FORM prmedit design  
+\i (00:17:44) FORM prmedit cancel  
+\i (00:17:44) setwindow pcb
+\i (00:17:44) generaledit 
+\i (00:17:48) define grid 
+\t (00:17:48) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:17:48) generaledit 
+\i (00:17:58) setwindow form.grid
+\i (00:17:58) FORM grid non_etch non_etch_x_grids 0.0254 
+\i (00:18:00) FORM grid non_etch non_etch_y_grids 0.0254 
+\i (00:18:01) FORM grid all_etch all_etch_x_grids 0.0254 
+\i (00:18:02) FORM grid all_etch all_etch_y_grids 0.0254 
+\i (00:18:03) FORM grid all_etch all_etch_x_offset 0.0000 
+\i (00:18:04) FORM grid all_etch all_etch_y_offset 0.0000 
+\i (00:18:04) FORM grid done  
+\i (00:18:06) setwindow pcb
+\i (00:18:06) grid toggle 
+\t (00:18:06) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
+\i (00:18:06) generaledit 
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in -2.1341 -7.3171
+\i (00:18:08) trapsize 7622
+\i (00:18:08) zoom in 1 
+\i (00:18:08) setwindow pcb
+\i (00:18:08) zoom in -26.0671 -7.3170
+\t (00:18:08) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:18:08) trapsize 3811
+\i (00:18:09) zoom in 1 
+\i (00:18:09) setwindow pcb
+\i (00:18:09) zoom in 1.9817 4.4208
+\i (00:18:09) trapsize 1905
+\i (00:18:09) zoom in 1 
+\i (00:18:09) setwindow pcb
+\i (00:18:09) zoom in 0.0381 -0.9907
+\t (00:18:09) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:18:09) trapsize 953
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in -0.4573 -0.8382
+\i (00:18:10) trapsize 476
+\i (00:18:10) zoom in 1 
+\i (00:18:10) setwindow pcb
+\i (00:18:10) zoom in -0.4573 -0.8287
+\i (00:18:10) trapsize 238
+\i (00:18:11) roam y 96 
+\i (00:18:11) roam y 96
+\i (00:18:12) roam y -96 
+\i (00:18:12) roam y -96
+\i (00:18:12) roam y -96 
+\i (00:18:12) roam y -96
+\i (00:18:15) add pin 
+\i (00:18:19) setwindow form.mini
+\i (00:18:19) FORM mini pad_browse  
+\i (00:18:25) fillin "Pad07_05Rec18_16D"
+\t (00:18:25) Using 'PAD07_05REC18_16D.pad'.
+\i (00:18:28) setwindow pcb
+\i (00:18:28) zoom out 1 
+\i (00:18:28) setwindow pcb
+\i (00:18:28) zoom out 0.3049 0.0915
+\i (00:18:28) trapsize 476
+\i (00:18:31) pick grid -0.2572 -0.0418
+\t (00:18:31) last pick:  -0.2540  -0.0508
+\t (00:18:31) Using 'PAD07_05REC18_16D.pad'.
+\i (00:18:56) zoom in 1 
+\i (00:18:56) setwindow pcb
+\i (00:18:56) zoom in -0.1715 -0.1371
+\i (00:18:56) trapsize 238
+\i (00:18:56) zoom in 1 
+\i (00:18:56) setwindow pcb
+\i (00:18:56) zoom in -0.1715 -0.1371
+\i (00:18:56) trapsize 119
+\i (00:18:57) zoom out 1 
+\i (00:18:57) setwindow pcb
+\i (00:18:57) zoom out -0.1643 -0.1394
+\i (00:18:57) trapsize 238
+\i (00:18:57) zoom out 1 
+\i (00:18:57) setwindow pcb
+\i (00:18:57) zoom out -0.1548 -0.1442
+\i (00:18:57) trapsize 476
+\i (00:18:57) zoom out 1 
+\i (00:18:57) setwindow pcb
+\i (00:18:57) zoom out -0.1549 -0.1442
+\i (00:18:57) trapsize 953
+\i (00:18:59) prepopup 4.2279 0.9038
+\i (00:19:00) cancel 
+\t (00:19:00) Exiting from Add Pin.
+\i (00:19:00) generaledit 
+\i (00:19:02) add pin 
+\i (00:20:05) add pin 
+\t (00:20:05) Exiting from Add Pin.
+\i (00:20:42) setwindow form.mini
+\i (00:20:42) FORM mini x_spacing 2.5000 
+\i (00:20:45) FORM mini x_count 3 
+\i (00:20:48) FORM mini offsetx 0.0000 
+\i (00:20:48) FORM mini pad_browse  
+\i (00:20:50) fillin "Pad07_05Rec18_16D"
+\t (00:20:50) Using 'PAD07_05REC18_16D.pad'.
+\i (00:20:59) setwindow pcb
+\i (00:20:59) pick 0 0 
+\t (00:20:59) last pick:  0.0000  0.0000
+\t (00:20:59) Using 'PAD07_05REC18_16D.pad'.
+\i (00:21:01) prepopup 2.3414 2.9237
+\i (00:21:01) done 
+\t (00:21:01) Exiting from Add Pin.
+\i (00:21:01) generaledit 
+\i (00:21:02) zoom in 1 
+\i (00:21:02) setwindow pcb
+\i (00:21:02) zoom in 0.2452 -0.3729
+\i (00:21:02) trapsize 476
+\i (00:21:02) zoom in 1 
+\i (00:21:02) setwindow pcb
+\i (00:21:02) zoom in 0.2453 -0.3728
+\i (00:21:02) trapsize 238
+\i (00:21:07) zoom out 1 
+\i (00:21:07) setwindow pcb
+\i (00:21:07) zoom out 1.6030 -1.0778
+\i (00:21:07) trapsize 476
+\i (00:21:08) zoom out 1 
+\i (00:21:08) setwindow pcb
+\i (00:21:08) zoom out 3.0703 -0.8397
+\i (00:21:08) trapsize 953
+\i (00:21:09) zoom in 1 
+\i (00:21:09) setwindow pcb
+\i (00:21:09) zoom in 5.1855 -0.4585
+\i (00:21:09) trapsize 476
+\i (00:21:10) zoom in 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom in 5.0997 -0.3156
+\i (00:21:10) trapsize 238
+\i (00:21:16) zoom out 1 
+\i (00:21:16) setwindow pcb
+\i (00:21:16) zoom out 1.0456 -0.2299
+\i (00:21:16) trapsize 476
+\i (00:22:14) zoom out 1 
+\i (00:22:14) setwindow pcb
+\i (00:22:14) zoom out 3.3132 2.0283
+\i (00:22:14) trapsize 953
+\i (00:22:14) zoom out 1 
+\i (00:22:14) setwindow pcb
+\i (00:22:14) zoom out 3.3131 2.0283
+\t (00:22:14) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:22:14) trapsize 1906
+\i (00:22:15) zoom out 1 
+\i (00:22:15) setwindow pcb
+\i (00:22:15) zoom out 2.9701 3.0955
+\i (00:22:15) trapsize 3811
+\i (00:22:16) zoom in 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom in 2.9702 3.0954
+\i (00:22:16) trapsize 1906
+\i (00:22:16) zoom in 1 
+\i (00:22:16) setwindow pcb
+\i (00:22:16) zoom in 1.9793 2.7143
+\t (00:22:16) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:22:16) trapsize 953
+\i (00:22:18) zoom in 1 
+\i (00:22:18) setwindow pcb
+\i (00:22:18) zoom in 1.3505 0.1037
+\i (00:22:18) trapsize 476
+\i (00:22:19) zoom in 1 
+\i (00:22:19) setwindow pcb
+\i (00:22:19) zoom in 0.9980 0.0561
+\i (00:22:19) trapsize 238
+\i (00:22:20) zoom out 1 
+\i (00:22:20) setwindow pcb
+\i (00:22:20) zoom out 0.9980 0.0561
+\i (00:22:20) trapsize 476
+\i (00:22:23) zoom out 1 
+\i (00:22:23) setwindow pcb
+\i (00:22:23) zoom out 1.1123 0.1037
+\i (00:22:23) trapsize 953
+\i (00:22:25) zoom in 1 
+\i (00:22:25) setwindow pcb
+\i (00:22:25) zoom in 1.1122 0.1037
+\i (00:22:25) trapsize 476
+\i (00:26:36) pick grid -2.4607 0.9326
+\t (00:26:36) last pick:  -2.4638  0.9398
+\i (00:26:38) add line 
+\i (00:26:41) setwindow form.mini
+\i (00:26:41) FORM mini class PACKAGE GEOMETRY 
+\i (00:26:45) FORM mini line_width 0.1000 
+\i (00:26:54) setwindow pcb
+\i (00:26:54) pick -1.75 1.85 
+\t (00:26:54) last pick:  -1.7500  1.8500
+\i (00:27:10) pick -1.75 -1.85 
+\t (00:27:10) last pick:  -1.7500  -1.8500
+\i (00:27:23) pick 6.85 -1.85 
+\t (00:27:23) last pick:  6.8500  -1.8500
+\i (00:27:34) pick 6.85 1.85 
+\t (00:27:34) last pick:  6.8500  1.8500
+\i (00:27:41) pick -175 1.85 
+\t (00:27:41) last pick:  -175.0000  1.8500
+\w (00:27:41) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:27:51) pick -1.75 1.85 
+\t (00:27:51) last pick:  -1.7500  1.8500
+\i (00:27:53) prepopup 1.9221 1.5329
+\i (00:27:54) done 
+\i (00:27:54) generaledit 
+\i (00:28:03) add line 
+\i (00:28:14) setwindow form.mini
+\i (00:28:14) FORM mini subclass SILKSCREEN_TOP 
+\i (00:28:18) FORM mini line_width 0.2000 
+\i (00:28:26) setwindow pcb
+\i (00:28:26) pick -175 1.85 
+\t (00:28:26) last pick:  -175.0000  1.8500
+\w (00:28:26) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:28:34) pick -1.75 1.85 
+\t (00:28:34) last pick:  -1.7500  1.8500
+\i (00:28:42) pick -1.75 -1.85 
+\t (00:28:42) last pick:  -1.7500  -1.8500
+\i (00:28:59) pick 6.85 -1.85 
+\t (00:28:59) last pick:  6.8500  -1.8500
+\i (00:29:08) pick 6.85 1.85 
+\t (00:29:08) last pick:  6.8500  1.8500
+\i (00:29:18) pick -1.75 1.85 
+\t (00:29:18) last pick:  -1.7500  1.8500
+\i (00:29:20) prepopup 8.6488 0.8659
+\i (00:29:21) done 
+\i (00:29:21) generaledit 
+\i (00:29:22) zoom out 1 
+\i (00:29:22) setwindow pcb
+\i (00:29:22) zoom out 3.8849 -0.1345
+\i (00:29:22) trapsize 953
+\i (00:29:24) zoom in 1 
+\i (00:29:24) setwindow pcb
+\i (00:29:24) zoom in 0.5692 1.7520
+\i (00:29:24) trapsize 476
+\i (00:29:35) add circle 
+\t (00:29:35) Pick center point of the circle.
+\t (00:29:35) Pick center point of the circle.
+\i (00:29:43) pick grid -2.4035 1.2757
+\t (00:29:43) last pick:  -2.4130  1.2700
+\t (00:29:43) Pick a perimeter point on the circle.
+\i (00:29:45) prepopup -2.3463 1.1804
+\i (00:29:46) oops 
+\t (00:29:46) Pick center point of the circle.
+\i (00:29:52) setwindow form.mini
+\i (00:29:52) FORM mini line_width 0.40000 
+\i (00:29:53) setwindow pcb
+\i (00:29:53) pick grid -2.1367 1.3042
+\t (00:29:53) last pick:  -2.1336  1.2954
+\t (00:29:53) Pick a perimeter point on the circle.
+\i (00:29:55) pick grid -2.0319 1.1518
+\t (00:29:55) last pick:  -2.0320  1.1430
+\e (00:29:55) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:29:56) pick grid -2.0319 1.1518
+\t (00:29:56) last pick:  -2.0320  1.1430
+\e (00:29:56) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:29:56) prepopup -2.0319 1.1518
+\i (00:29:57) pick grid -2.0890 1.1423
+\t (00:29:57) last pick:  -2.0828  1.1430
+\e (00:29:57) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:29:58) pick grid -2.0605 1.1042
+\t (00:29:58) last pick:  -2.0574  1.0922
+\t (00:29:58) Pick center point of the circle.
+\i (00:29:58) pick grid dbl -2.0605 1.1042
+\t (00:29:58) last pick:  -2.0574  1.0922
+\t (00:29:59) Pick a perimeter point on the circle.
+\i (00:30:00) prepopup -1.9271 1.0470
+\i (00:30:01) cancel 
+\i (00:30:01) generaledit 
+\i (00:30:02) prepopup -2.3844 1.5139
+\i (00:30:03) pick grid -2.5273 1.4948
+\t (00:30:03) last pick:  -2.5146  1.4986
+\i (00:30:03) pick grid -2.1748 1.3995
+\t (00:30:03) last pick:  -2.1844  1.3970
+\i (00:30:05) pick grid -2.1462 1.3519
+\t (00:30:05) last pick:  -2.1336  1.3462
+\i (00:30:07) add circle 
+\t (00:30:07) Pick center point of the circle.
+\t (00:30:07) Pick center point of the circle.
+\i (00:30:11) pick grid -2.1462 1.3519
+\t (00:30:11) last pick:  -2.1336  1.3462
+\t (00:30:11) Pick a perimeter point on the circle.
+\i (00:30:15) pick grid -1.9938 1.2090
+\t (00:30:15) last pick:  -1.9812  1.2192
+\e (00:30:15) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:16) pick grid -1.9842 1.2090
+\t (00:30:16) last pick:  -1.9812  1.2192
+\e (00:30:16) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:16) pick grid -1.9842 1.2090
+\t (00:30:16) last pick:  -1.9812  1.2192
+\e (00:30:16) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:16) pick grid dbl -1.9842 1.2090
+\t (00:30:16) last pick:  -1.9812  1.2192
+\e (00:30:16) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:17) pick grid -1.9842 1.2090
+\t (00:30:17) last pick:  -1.9812  1.2192
+\e (00:30:17) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:17) pick grid dbl -1.9842 1.2090
+\t (00:30:17) last pick:  -1.9812  1.2192
+\e (00:30:17) ERROR(SPMHGE-205): Circle width cannot be greater than the diameter.
+\i (00:30:23) pick grid -2.0223 1.1613
+\t (00:30:23) last pick:  -2.0320  1.1684
+\t (00:30:23) Pick center point of the circle.
+\i (00:30:24) prepopup -1.8890 1.2090
+\i (00:30:25) done 
+\i (00:30:25) generaledit 
+\i (00:30:29) add circle 
+\t (00:30:29) Pick center point of the circle.
+\t (00:30:29) Pick center point of the circle.
+\i (00:30:33) setwindow form.mini
+\i (00:30:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:30:38) FORM mini line_width 0.20000 
+\i (00:30:38) setwindow pcb
+\i (00:30:38) pick grid -2.0986 1.3900
+\t (00:30:38) last pick:  -2.1082  1.3970
+\t (00:30:38) Pick a perimeter point on the circle.
+\i (00:30:40) prepopup -2.0986 1.1709
+\i (00:30:41) oops 
+\t (00:30:41) Pick center point of the circle.
+\i (00:30:42) pick grid -2.1367 1.3614
+\t (00:30:42) last pick:  -2.1336  1.3716
+\t (00:30:42) Pick a perimeter point on the circle.
+\i (00:30:44) pick grid -2.0128 1.0756
+\t (00:30:44) last pick:  -2.0066  1.0668
+\t (00:30:44) Pick center point of the circle.
+\i (00:30:44) prepopup -2.0128 1.0756
+\i (00:30:45) done 
+\i (00:30:45) generaledit 
+\i (00:30:48) zoom out 1 
+\i (00:30:48) setwindow pcb
+\i (00:30:48) zoom out 0.3215 1.1137
+\i (00:30:48) trapsize 953
+\i (00:30:49) zoom in 1 
+\i (00:30:49) setwindow pcb
+\i (00:30:49) zoom in 0.6836 0.2562
+\i (00:30:49) trapsize 476
+\i (00:30:50) zoom out 1 
+\i (00:30:50) setwindow pcb
+\i (00:30:50) zoom out 0.6932 0.2277
+\i (00:30:50) trapsize 953
+\i (00:30:57) label refdes 
+\t (00:30:57) Pick text location.
+\i (00:31:04) pick grid 1.9699 -0.1345
+\t (00:31:04) last pick:  1.9812  -0.1270
+\t (00:31:04) Enter text string.
+\i (00:31:05) setwindow pcb
+\i (00:31:05) pick grid 1.8365 -0.2297
+\t (00:31:05) last pick:  1.8288  -0.2286
+\t (00:31:05) Enter text string.
+\i (00:31:10) setwindow pcb
+\i (00:31:10) prepopup 5.5333 2.0760
+\i (00:31:11) done 
+\i (00:31:11) setwindow pcb
+\i (00:31:11) pick 1.8288 -0.2286
+\i (00:31:11) setwindow pcb
+\i (00:31:11) generaledit 
+\i (00:31:15) label refdes 
+\t (00:31:15) Pick text location.
+\i (00:31:22) setwindow form.mini
+\i (00:31:22) FORM mini subclass SILKSCREEN_TOP 
+\i (00:31:25) setwindow pcb
+\i (00:31:25) pick grid -1.3458 1.6568
+\t (00:31:25) last pick:  -1.3462  1.6510
+\t (00:31:25) Enter text string.
+\i (00:31:29) setwindow pcb
+\i (00:31:29) prepopup 1.8746 2.9335
+\i (00:31:29) done 
+\i (00:31:29) setwindow pcb
+\i (00:31:29) pick -1.3462 1.6510
+\i (00:31:29) setwindow pcb
+\i (00:31:29) generaledit 
+\i (00:31:39) add line 
+\i (00:31:43) add rect 
+\i (00:31:49) setwindow form.mini
+\i (00:31:49) FORM mini class PACKAGE GEOMETRY 
+\i (00:32:12) setwindow pcb
+\i (00:32:12) pick -1.75 1.85 
+\t (00:32:12) last pick:  -1.7500  1.8500
+\i (00:32:24) pick 685 -1.85 
+\t (00:32:24) last pick:  685.0000  -1.8500
+\w (00:32:24) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:27) roam y -96 
+\i (00:32:27) roam y -96
+\i (00:32:28) roam y 96 
+\i (00:32:28) roam y 96
+\i (00:32:28) roam y 96 
+\i (00:32:28) roam y 96
+\i (00:32:28) roam y 96 
+\i (00:32:28) roam y 96
+\i (00:32:28) roam y 96 
+\i (00:32:28) roam y 96
+\i (00:32:37) pick 6.85 -1.85 
+\t (00:32:37) last pick:  6.8500  -1.8500
+\i (00:32:39) prepopup 7.9152 2.0411
+\i (00:32:39) done 
+\i (00:32:40) generaledit 
+\i (00:32:41) save 
+\t (00:32:42) Symbol 'ss12d00g3.psm' created.
+\i (00:32:42) generaledit 
+\e (00:33:02) Command not found: xhilite
+\i (00:33:02) xname_flush 
+\i (00:33:02) done 
+\i (00:33:02) generaledit 
+\i (00:33:10) open 
+\i (00:35:25) fillin "SMD-3CSTCE16M0V53.dra"
+\t (00:35:25) Opening existing design...
+\t (00:35:26) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:35:26) trapsize 460
+\d (00:35:26) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package/SMD-3CSTCE16M0V53.dra
+\e (00:35:26) Command not found: xdehilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xhilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xdehilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xhilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xdehilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xhilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xdehilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\e (00:35:26) Command not found: xhilite
+\i (00:35:26) xname_flush 
+\e (00:35:26) No command active
+\i (00:35:26) done 
+\e (00:35:26) No command active
+\i (00:35:26) generaledit 
+\i (00:35:29) open 
+\i (00:39:18) fillin "menu_cancel"
+\e (00:39:18) Command not found: xdehilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xhilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xdehilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xhilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xdehilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xhilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xdehilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xhilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\e (00:39:18) Command not found: xdehilite
+\i (00:39:18) xname_flush 
+\e (00:39:18) No command active
+\i (00:39:18) done 
+\e (00:39:18) No command active
+\i (00:39:18) generaledit 
+\e (00:49:09) Command not found: xhilite
+\i (00:49:09) xname_flush 
+\i (00:49:09) done 
+\i (00:49:09) generaledit 
+\e (00:49:14) Command not found: xdehilite
+\i (00:49:14) xname_flush 
+\i (00:49:14) done 
+\i (00:49:14) generaledit 
+\e (00:49:29) Command not found: xhilite
+\i (00:49:29) xname_flush 
+\i (00:49:29) done 
+\i (00:49:29) generaledit 
+\e (00:49:31) Command not found: xdehilite
+\i (00:49:31) xname_flush 
+\i (00:49:31) done 
+\i (00:49:31) generaledit 
+\e (00:50:28) Command not found: xhilite
+\i (00:50:28) xname_flush 
+\i (00:50:28) done 
+\i (00:50:28) generaledit 
+\e (00:50:33) Command not found: xdehilite
+\i (00:50:33) xname_flush 
+\i (00:50:33) done 
+\i (00:50:33) generaledit 
+\e (00:50:34) Command not found: xhilite
+\i (00:50:34) xname_flush 
+\i (00:50:34) done 
+\i (00:50:34) generaledit 
+\e (00:50:36) Command not found: xdehilite
+\i (00:50:36) xname_flush 
+\i (00:50:36) done 
+\i (00:50:36) generaledit 
+\e (00:50:37) Command not found: xhilite
+\i (00:50:37) xname_flush 
+\i (00:50:37) done 
+\i (00:50:37) generaledit 
+\e (00:50:40) Command not found: xhilite
+\i (00:50:40) xname_flush 
+\i (00:50:40) done 
+\i (00:50:40) generaledit 
+\e (00:50:42) Command not found: xdehilite
+\i (00:50:42) xname_flush 
+\i (00:50:42) done 
+\i (00:50:42) generaledit 
+\e (00:50:43) Command not found: xhilite
+\i (00:50:43) xname_flush 
+\i (00:50:43) done 
+\i (00:50:43) generaledit 
+\e (00:50:44) Command not found: xdehilite
+\i (00:50:44) xname_flush 
+\i (00:50:44) done 
+\e (00:50:44) Command not found: xhilite
+\i (00:50:44) xname_flush 
+\e (00:50:44) No command active
+\i (00:50:44) done 
+\e (00:50:44) No command active
+\i (00:50:44) generaledit 
+\e (00:50:55) Command not found: xdehilite
+\i (00:50:55) xname_flush 
+\i (00:50:55) done 
+\i (00:50:55) generaledit 
+\e (00:50:55) Command not found: xhilite
+\i (00:50:55) xname_flush 
+\i (00:50:55) done 
+\i (00:50:55) generaledit 
+\e (00:51:13) Command not found: xhilite
+\i (00:51:13) xname_flush 
+\i (00:51:13) done 
+\i (00:51:13) generaledit 
+\e (00:51:14) Command not found: xdehilite
+\i (00:51:14) xname_flush 
+\i (00:51:14) done 
+\i (00:51:15) generaledit 
+\e (00:51:24) Command not found: xhilite
+\i (00:51:24) xname_flush 
+\i (00:51:24) done 
+\i (00:51:24) generaledit 
+\e (00:51:31) Command not found: xdehilite
+\i (00:51:31) xname_flush 
+\i (00:51:31) done 
+\i (00:51:31) generaledit 
+\e (00:51:36) Command not found: xhilite
+\i (00:51:36) xname_flush 
+\i (00:51:36) done 
+\i (00:51:36) generaledit 
+\e (00:51:39) Command not found: xdehilite
+\i (00:51:39) xname_flush 
+\i (00:51:39) done 
+\i (00:51:39) generaledit 
+\e (00:52:05) Command not found: xhilite
+\i (00:52:05) xname_flush 
+\i (00:52:05) done 
+\i (00:52:05) generaledit 
+\e (00:52:07) Command not found: xdehilite
+\i (00:52:07) xname_flush 
+\i (00:52:07) done 
+\i (00:52:07) generaledit 
+\e (00:52:07) Command not found: xhilite
+\i (00:52:07) xname_flush 
+\i (00:52:07) done 
+\i (00:52:07) generaledit 
+\e (00:52:09) Command not found: xdehilite
+\i (00:52:09) xname_flush 
+\i (00:52:09) done 
+\i (00:52:09) generaledit 
+\e (00:52:31) Command not found: xhilite
+\i (00:52:31) xname_flush 
+\i (00:52:31) done 
+\i (00:52:31) generaledit 
+\e (00:52:32) Command not found: xdehilite
+\i (00:52:32) xname_flush 
+\i (00:52:32) done 
+\i (00:52:32) generaledit 
+\e (00:52:35) Command not found: xhilite
+\i (00:52:35) xname_flush 
+\i (00:52:35) done 
+\i (00:52:35) generaledit 
+\e (00:52:38) Command not found: xdehilite
+\i (00:52:38) xname_flush 
+\i (00:52:38) done 
+\i (00:52:38) generaledit 
+\e (00:52:39) Command not found: xhilite
+\i (00:52:39) xname_flush 
+\i (00:52:39) done 
+\i (00:52:39) generaledit 
+\e (00:52:41) Command not found: xdehilite
+\i (00:52:41) xname_flush 
+\i (00:52:41) done 
+\i (00:52:41) generaledit 
+\e (00:54:32) Command not found: xhilite
+\i (00:54:32) xname_flush 
+\i (00:54:32) done 
+\i (00:54:32) generaledit 
+\e (00:54:36) Command not found: xdehilite
+\i (00:54:36) xname_flush 
+\i (00:54:36) done 
+\e (00:54:36) Command not found: xhilite
+\i (00:54:36) xname_flush 
+\e (00:54:36) No command active
+\i (00:54:36) done 
+\e (00:54:36) No command active
+\i (00:54:36) generaledit 
+\e (00:54:39) Command not found: xdehilite
+\i (00:54:39) xname_flush 
+\i (00:54:39) done 
+\i (00:54:39) generaledit 
+\e (00:54:40) Command not found: xhilite
+\i (00:54:40) xname_flush 
+\i (00:54:40) done 
+\i (00:54:40) generaledit 
+\e (00:54:43) Command not found: xdehilite
+\i (00:54:43) xname_flush 
+\i (00:54:43) done 
+\i (00:54:43) generaledit 
+\e (00:54:49) Command not found: xhilite
+\i (00:54:49) xname_flush 
+\i (00:54:49) done 
+\i (00:54:49) generaledit 
+\e (00:54:51) Command not found: xdehilite
+\i (00:54:51) xname_flush 
+\i (00:54:51) done 
+\e (00:54:51) Command not found: xhilite
+\i (00:54:51) xname_flush 
+\e (00:54:51) No command active
+\i (00:54:51) done 
+\e (00:54:51) No command active
+\i (00:54:51) generaledit 
+\e (00:54:51) Command not found: xdehilite
+\i (00:54:51) xname_flush 
+\i (00:54:51) done 
+\e (00:54:51) Command not found: xhilite
+\i (00:54:51) xname_flush 
+\e (00:54:51) No command active
+\i (00:54:51) done 
+\e (00:54:51) No command active
+\i (00:54:51) generaledit 
+\e (00:54:52) Command not found: xdehilite
+\i (00:54:52) xname_flush 
+\i (00:54:52) done 
+\i (00:54:52) generaledit 
+\e (00:54:57) Command not found: xhilite
+\i (00:54:57) xname_flush 
+\i (00:54:57) done 
+\i (00:54:57) generaledit 
+\e (00:55:02) Command not found: xhilite
+\i (00:55:02) xname_flush 
+\i (00:55:02) done 
+\i (00:55:02) generaledit 
+\e (00:55:03) Command not found: xdehilite
+\i (00:55:03) xname_flush 
+\i (00:55:03) done 
+\e (00:55:03) Command not found: xhilite
+\i (00:55:03) xname_flush 
+\e (00:55:03) No command active
+\i (00:55:03) done 
+\e (00:55:03) No command active
+\i (00:55:03) generaledit 
+\e (00:55:03) Command not found: xdehilite
+\i (00:55:03) xname_flush 
+\i (00:55:03) done 
+\i (00:55:03) generaledit 
+\e (00:55:08) Command not found: xhilite
+\i (00:55:08) xname_flush 
+\i (00:55:08) done 
+\i (00:55:08) generaledit 
+\e (00:55:10) Command not found: xdehilite
+\i (00:55:10) xname_flush 
+\i (00:55:10) done 
+\i (00:55:10) generaledit 
+\e (00:55:12) Command not found: xhilite
+\i (00:55:12) xname_flush 
+\i (00:55:12) done 
+\i (00:55:12) generaledit 
+\e (00:55:14) Command not found: xdehilite
+\i (00:55:14) xname_flush 
+\i (00:55:14) done 
+\i (00:55:14) generaledit 
+\e (00:55:15) Command not found: xhilite
+\i (00:55:15) xname_flush 
+\i (00:55:15) done 
+\i (00:55:15) generaledit 
+\e (00:55:16) Command not found: xhilite
+\i (00:55:16) xname_flush 
+\i (00:55:16) done 
+\i (00:55:16) generaledit 
+\e (00:55:27) Command not found: xdehilite
+\i (00:55:27) xname_flush 
+\i (00:55:27) done 
+\i (00:55:27) generaledit 
+\e (00:55:28) Command not found: xhilite
+\i (00:55:28) xname_flush 
+\i (00:55:28) done 
+\i (00:55:28) generaledit 
+\e (00:55:31) Command not found: xdehilite
+\i (00:55:31) xname_flush 
+\i (00:55:31) done 
+\i (00:55:31) generaledit 
+\e (00:55:32) Command not found: xhilite
+\i (00:55:32) xname_flush 
+\i (00:55:32) done 
+\i (00:55:32) generaledit 
+\e (00:55:33) Command not found: xhilite
+\i (00:55:33) xname_flush 
+\i (00:55:33) done 
+\i (00:55:33) generaledit 
+\e (00:55:35) Command not found: xdehilite
+\i (00:55:35) xname_flush 
+\i (00:55:35) done 
+\i (00:55:35) generaledit 
+\e (00:55:36) Command not found: xhilite
+\i (00:55:36) xname_flush 
+\i (00:55:36) done 
+\i (00:55:36) generaledit 
+\e (00:55:37) Command not found: xdehilite
+\i (00:55:37) xname_flush 
+\i (00:55:37) done 
+\i (00:55:37) generaledit 
+\e (00:56:09) Command not found: xhilite
+\i (00:56:09) xname_flush 
+\i (00:56:09) done 
+\i (00:56:09) generaledit 
+\e (00:56:11) Command not found: xdehilite
+\i (00:56:11) xname_flush 
+\i (00:56:11) done 
+\i (00:56:11) generaledit 
+\e (00:56:33) Command not found: xhilite
+\i (00:56:33) xname_flush 
+\i (00:56:33) done 
+\i (00:56:33) generaledit 
+\e (00:56:34) Command not found: xdehilite
+\i (00:56:34) xname_flush 
+\i (00:56:34) done 
+\i (00:56:34) generaledit 
+\e (00:56:35) Command not found: xhilite
+\i (00:56:35) xname_flush 
+\i (00:56:35) done 
+\i (00:56:35) generaledit 
+\e (00:56:37) Command not found: xdehilite
+\i (00:56:37) xname_flush 
+\i (00:56:37) done 
+\e (00:56:37) Command not found: xhilite
+\i (00:56:37) xname_flush 
+\e (00:56:37) No command active
+\i (00:56:37) done 
+\e (00:56:37) No command active
+\i (00:56:37) generaledit 
+\e (00:56:37) Command not found: xdehilite
+\i (00:56:37) xname_flush 
+\i (00:56:37) done 
+\e (00:56:37) Command not found: xhilite
+\i (00:56:37) xname_flush 
+\e (00:56:37) No command active
+\i (00:56:37) done 
+\e (00:56:37) No command active
+\i (00:56:37) generaledit 
+\e (00:56:53) Command not found: xhilite
+\i (00:56:53) xname_flush 
+\i (00:56:53) done 
+\i (00:56:53) generaledit 
+\e (00:56:55) Command not found: xdehilite
+\i (00:56:55) xname_flush 
+\i (00:56:55) done 
+\i (00:56:55) generaledit 
+\e (00:56:56) Command not found: xhilite
+\i (00:56:56) xname_flush 
+\i (00:56:56) done 
+\i (00:56:56) generaledit 
+\e (00:56:58) Command not found: xdehilite
+\i (00:56:58) xname_flush 
+\i (00:56:58) done 
+\i (00:56:58) generaledit 
+\e (00:57:03) Command not found: xhilite
+\i (00:57:03) xname_flush 
+\i (00:57:03) done 
+\i (00:57:03) generaledit 
+\e (00:57:05) Command not found: xdehilite
+\i (00:57:05) xname_flush 
+\i (00:57:05) done 
+\i (00:57:05) generaledit 
+\e (00:57:06) Command not found: xhilite
+\i (00:57:06) xname_flush 
+\i (00:57:06) done 
+\i (00:57:06) generaledit 
+\e (00:57:20) Command not found: xdehilite
+\i (00:57:20) xname_flush 
+\i (00:57:20) done 
+\i (00:57:21) generaledit 
+\e (00:59:07) Command not found: xhilite
+\i (00:59:07) xname_flush 
+\i (00:59:07) done 
+\i (00:59:07) generaledit 
+\e (00:59:08) Command not found: xdehilite
+\i (00:59:08) xname_flush 
+\i (00:59:08) done 
+\i (00:59:08) generaledit 
+\e (00:59:56) Command not found: xhilite
+\i (00:59:56) xname_flush 
+\i (00:59:56) done 
+\i (00:59:56) generaledit 
+\e (00:59:57) Command not found: xdehilite
+\i (00:59:57) xname_flush 
+\i (00:59:57) done 
+\i (00:59:57) generaledit 
+\e (01:00:06) Command not found: xhilite
+\i (01:00:06) xname_flush 
+\i (01:00:06) done 
+\i (01:00:06) generaledit 
+\e (01:00:07) Command not found: xdehilite
+\i (01:00:07) xname_flush 
+\i (01:00:07) done 
+\i (01:00:07) generaledit 
+\e (01:00:42) Command not found: xhilite
+\i (01:00:42) xname_flush 
+\i (01:00:42) done 
+\i (01:00:42) generaledit 
+\e (01:00:47) Command not found: xdehilite
+\i (01:00:47) xname_flush 
+\i (01:00:47) done 
+\e (01:00:47) Command not found: xhilite
+\i (01:00:47) xname_flush 
+\e (01:00:47) No command active
+\i (01:00:47) done 
+\e (01:00:47) No command active
+\i (01:00:47) generaledit 
+\e (01:00:55) Command not found: xdehilite
+\i (01:00:55) xname_flush 
+\i (01:00:55) done 
+\e (01:00:55) Command not found: xhilite
+\i (01:00:55) xname_flush 
+\e (01:00:55) No command active
+\i (01:00:55) done 
+\e (01:00:55) No command active
+\i (01:00:55) generaledit 
+\e (01:00:56) Command not found: xdehilite
+\i (01:00:56) xname_flush 
+\i (01:00:56) done 
+\e (01:00:56) Command not found: xhilite
+\i (01:00:56) xname_flush 
+\e (01:00:56) No command active
+\i (01:00:56) done 
+\e (01:00:56) No command active
+\i (01:00:56) generaledit 
+\e (01:01:02) Command not found: xdehilite
+\i (01:01:02) xname_flush 
+\i (01:01:02) done 
+\i (01:01:02) generaledit 
+\e (01:01:10) Command not found: xhilite
+\i (01:01:10) xname_flush 
+\i (01:01:10) done 
+\i (01:01:10) generaledit 
+\e (01:01:11) Command not found: xdehilite
+\i (01:01:11) xname_flush 
+\i (01:01:11) done 
+\i (01:01:11) generaledit 
+\e (01:01:39) Command not found: xhilite
+\i (01:01:39) xname_flush 
+\i (01:01:39) done 
+\i (01:01:39) generaledit 
+\e (01:01:41) Command not found: xdehilite
+\i (01:01:41) xname_flush 
+\i (01:01:41) done 
+\i (01:01:41) generaledit 
+\e (01:01:42) Command not found: xhilite
+\i (01:01:42) xname_flush 
+\i (01:01:42) done 
+\i (01:01:42) generaledit 
+\e (01:01:44) Command not found: xdehilite
+\i (01:01:44) xname_flush 
+\i (01:01:44) done 
+\i (01:01:44) generaledit 
+\e (01:01:51) Command not found: xhilite
+\i (01:01:51) xname_flush 
+\i (01:01:51) done 
+\i (01:01:51) generaledit 
+\e (01:01:55) Command not found: xdehilite
+\i (01:01:55) xname_flush 
+\i (01:01:55) done 
+\e (01:01:55) Command not found: xhilite
+\i (01:01:55) xname_flush 
+\e (01:01:55) No command active
+\i (01:01:55) done 
+\e (01:01:55) No command active
+\i (01:01:55) generaledit 
+\e (01:02:00) Command not found: xdehilite
+\i (01:02:00) xname_flush 
+\i (01:02:00) done 
+\i (01:02:00) generaledit 
+\e (01:02:02) Command not found: xhilite
+\i (01:02:02) xname_flush 
+\i (01:02:02) done 
+\i (01:02:02) generaledit 
+\e (01:02:04) Command not found: xdehilite
+\i (01:02:04) xname_flush 
+\i (01:02:04) done 
+\i (01:02:04) generaledit 
+\e (01:02:06) Command not found: xhilite
+\i (01:02:06) xname_flush 
+\i (01:02:06) done 
+\i (01:02:06) generaledit 
+\e (01:02:07) Command not found: xdehilite
+\i (01:02:07) xname_flush 
+\i (01:02:07) done 
+\i (01:02:07) generaledit 
+\e (01:02:08) Command not found: xhilite
+\i (01:02:08) xname_flush 
+\i (01:02:08) done 
+\i (01:02:08) generaledit 
+\e (01:02:10) Command not found: xdehilite
+\i (01:02:10) xname_flush 
+\i (01:02:10) done 
+\i (01:02:10) generaledit 
+\e (01:02:46) Command not found: xhilite
+\i (01:02:46) xname_flush 
+\i (01:02:46) done 
+\i (01:02:46) generaledit 
+\e (01:02:49) Command not found: xdehilite
+\i (01:02:49) xname_flush 
+\i (01:02:49) done 
+\e (01:02:49) Command not found: xhilite
+\i (01:02:49) xname_flush 
+\e (01:02:49) No command active
+\i (01:02:49) done 
+\e (01:02:49) No command active
+\i (01:02:49) generaledit 
+\e (01:02:50) Command not found: xdehilite
+\i (01:02:50) xname_flush 
+\i (01:02:50) done 
+\i (01:02:50) generaledit 
+\e (01:03:01) Command not found: xhilite
+\i (01:03:01) xname_flush 
+\i (01:03:01) done 
+\i (01:03:01) generaledit 
+\e (01:03:03) Command not found: xdehilite
+\i (01:03:03) xname_flush 
+\i (01:03:03) done 
+\e (01:03:03) Command not found: xhilite
+\i (01:03:03) xname_flush 
+\e (01:03:03) No command active
+\i (01:03:03) done 
+\e (01:03:03) No command active
+\i (01:03:03) generaledit 
+\e (01:03:04) Command not found: xdehilite
+\i (01:03:04) xname_flush 
+\i (01:03:04) done 
+\e (01:03:04) Command not found: xhilite
+\i (01:03:04) xname_flush 
+\e (01:03:04) No command active
+\i (01:03:04) done 
+\e (01:03:04) No command active
+\i (01:03:04) generaledit 
+\e (01:03:06) Command not found: xdehilite
+\i (01:03:06) xname_flush 
+\i (01:03:06) done 
+\e (01:03:06) Command not found: xhilite
+\i (01:03:06) xname_flush 
+\e (01:03:06) No command active
+\i (01:03:06) done 
+\e (01:03:06) No command active
+\i (01:03:06) generaledit 
+\e (01:03:13) Command not found: xdehilite
+\i (01:03:13) xname_flush 
+\i (01:03:13) done 
+\i (01:03:13) generaledit 
+\e (01:03:13) Command not found: xhilite
+\i (01:03:13) xname_flush 
+\i (01:03:13) done 
+\i (01:03:13) generaledit 
+\e (01:03:14) Command not found: xdehilite
+\i (01:03:14) xname_flush 
+\i (01:03:14) done 
+\i (01:03:14) generaledit 
+\e (01:03:15) Command not found: xhilite
+\i (01:03:15) xname_flush 
+\i (01:03:15) done 
+\i (01:03:15) generaledit 
+\e (01:03:18) Command not found: xdehilite
+\i (01:03:18) xname_flush 
+\i (01:03:18) done 
+\i (01:03:18) generaledit 
+\e (01:03:35) Command not found: xhilite
+\i (01:03:35) xname_flush 
+\i (01:03:35) done 
+\i (01:03:35) generaledit 
+\e (01:03:38) Command not found: xdehilite
+\i (01:03:38) xname_flush 
+\i (01:03:38) done 
+\i (01:03:38) generaledit 
+\e (01:03:39) Command not found: xhilite
+\i (01:03:39) xname_flush 
+\i (01:03:39) done 
+\i (01:03:39) generaledit 
+\e (01:03:44) Command not found: xdehilite
+\i (01:03:44) xname_flush 
+\i (01:03:44) done 
+\e (01:03:44) Command not found: xhilite
+\i (01:03:44) xname_flush 
+\e (01:03:44) No command active
+\i (01:03:44) done 
+\e (01:03:44) No command active
+\i (01:03:44) generaledit 
+\e (01:03:46) Command not found: xdehilite
+\i (01:03:46) xname_flush 
+\i (01:03:46) done 
+\e (01:03:46) Command not found: xhilite
+\i (01:03:46) xname_flush 
+\e (01:03:46) No command active
+\i (01:03:46) done 
+\e (01:03:46) No command active
+\i (01:03:46) generaledit 
+\e (01:03:55) Command not found: xdehilite
+\i (01:03:55) xname_flush 
+\i (01:03:55) done 
+\i (01:03:55) generaledit 
+\e (01:03:56) Command not found: xhilite
+\i (01:03:56) xname_flush 
+\i (01:03:56) done 
+\i (01:03:56) generaledit 
+\e (01:03:59) Command not found: xdehilite
+\i (01:03:59) xname_flush 
+\i (01:03:59) done 
+\i (01:04:00) generaledit 
+\e (01:04:21) Command not found: xhilite
+\i (01:04:21) xname_flush 
+\i (01:04:21) done 
+\i (01:04:21) generaledit 
+\e (01:04:22) Command not found: xdehilite
+\i (01:04:22) xname_flush 
+\i (01:04:22) done 
+\i (01:04:22) generaledit 
+\e (01:04:32) Command not found: xhilite
+\i (01:04:32) xname_flush 
+\i (01:04:32) done 
+\i (01:04:32) generaledit 
+\e (01:04:33) Command not found: xdehilite
+\i (01:04:33) xname_flush 
+\i (01:04:33) done 
+\i (01:04:33) generaledit 
+\e (01:04:42) Command not found: xhilite
+\i (01:04:42) xname_flush 
+\i (01:04:42) done 
+\i (01:04:42) generaledit 
+\e (01:04:43) Command not found: xdehilite
+\i (01:04:43) xname_flush 
+\i (01:04:43) done 
+\i (01:04:43) generaledit 
+\e (01:04:48) Command not found: xhilite
+\i (01:04:48) xname_flush 
+\i (01:04:48) done 
+\i (01:04:48) generaledit 
+\e (01:04:49) Command not found: xdehilite
+\i (01:04:49) xname_flush 
+\i (01:04:49) done 
+\e (01:04:49) Command not found: xhilite
+\i (01:04:49) xname_flush 
+\e (01:04:49) No command active
+\i (01:04:49) done 
+\e (01:04:49) No command active
+\i (01:04:49) generaledit 
+\e (01:04:51) Command not found: xdehilite
+\i (01:04:51) xname_flush 
+\i (01:04:51) done 
+\i (01:04:51) generaledit 
+\e (01:05:09) Command not found: xhilite
+\i (01:05:09) xname_flush 
+\i (01:05:09) done 
+\i (01:05:09) generaledit 
+\e (01:05:11) Command not found: xdehilite
+\i (01:05:11) xname_flush 
+\i (01:05:11) done 
+\i (01:05:11) generaledit 
+\e (01:05:14) Command not found: xhilite
+\i (01:05:14) xname_flush 
+\i (01:05:14) done 
+\i (01:05:14) generaledit 
+\e (01:05:15) Command not found: xdehilite
+\i (01:05:15) xname_flush 
+\i (01:05:15) done 
+\i (01:05:15) generaledit 
+\e (01:05:16) Command not found: xhilite
+\i (01:05:16) xname_flush 
+\i (01:05:16) done 
+\i (01:05:16) generaledit 
+\e (01:05:17) Command not found: xdehilite
+\i (01:05:17) xname_flush 
+\i (01:05:17) done 
+\i (01:05:17) generaledit 
+\e (01:05:17) Command not found: xhilite
+\i (01:05:17) xname_flush 
+\i (01:05:17) done 
+\i (01:05:17) generaledit 
+\e (01:05:22) Command not found: xdehilite
+\i (01:05:22) xname_flush 
+\i (01:05:22) done 
+\i (01:05:22) generaledit 
+\e (01:05:25) Command not found: xhilite
+\i (01:05:25) xname_flush 
+\i (01:05:25) done 
+\i (01:05:25) generaledit 
+\e (01:05:26) Command not found: xdehilite
+\i (01:05:26) xname_flush 
+\i (01:05:26) done 
+\i (01:05:26) generaledit 
+\e (01:05:26) Command not found: xhilite
+\i (01:05:26) xname_flush 
+\i (01:05:26) done 
+\i (01:05:26) generaledit 
+\e (01:05:28) Command not found: xdehilite
+\i (01:05:28) xname_flush 
+\i (01:05:28) done 
+\i (01:05:28) generaledit 
+\e (01:05:28) Command not found: xhilite
+\i (01:05:28) xname_flush 
+\i (01:05:28) done 
+\i (01:05:28) generaledit 
+\e (01:05:30) Command not found: xdehilite
+\i (01:05:30) xname_flush 
+\i (01:05:30) done 
+\i (01:05:30) generaledit 
+\e (01:05:30) Command not found: xhilite
+\i (01:05:30) xname_flush 
+\i (01:05:30) done 
+\i (01:05:30) generaledit 
+\e (01:05:32) Command not found: xdehilite
+\i (01:05:32) xname_flush 
+\i (01:05:32) done 
+\i (01:05:32) generaledit 
+\e (01:05:52) Command not found: xhilite
+\i (01:05:52) xname_flush 
+\i (01:05:52) done 
+\i (01:05:52) generaledit 
+\e (01:05:55) Command not found: xdehilite
+\i (01:05:55) xname_flush 
+\i (01:05:55) done 
+\i (01:05:55) generaledit 
+\e (01:05:57) Command not found: xhilite
+\i (01:05:57) xname_flush 
+\i (01:05:57) done 
+\i (01:05:57) generaledit 
+\e (01:05:58) Command not found: xdehilite
+\i (01:05:58) xname_flush 
+\i (01:05:58) done 
+\i (01:05:58) generaledit 
+\e (01:06:01) Command not found: xdehilite
+\i (01:06:01) xname_flush 
+\i (01:06:01) done 
+\i (01:06:01) generaledit 
+\e (01:06:02) Command not found: xhilite
+\i (01:06:02) xname_flush 
+\i (01:06:02) done 
+\i (01:06:02) generaledit 
+\e (01:06:05) Command not found: xhilite
+\i (01:06:05) xname_flush 
+\i (01:06:05) done 
+\i (01:06:05) generaledit 
+\e (01:06:09) Command not found: xdehilite
+\i (01:06:09) xname_flush 
+\i (01:06:09) done 
+\i (01:06:09) generaledit 
+\e (01:06:13) Command not found: xhilite
+\i (01:06:13) xname_flush 
+\i (01:06:13) done 
+\i (01:06:13) generaledit 
+\e (01:06:14) Command not found: xdehilite
+\i (01:06:14) xname_flush 
+\i (01:06:14) done 
+\i (01:06:14) generaledit 
+\e (01:06:15) Command not found: xhilite
+\i (01:06:15) xname_flush 
+\i (01:06:15) done 
+\i (01:06:15) generaledit 
+\e (01:06:15) Command not found: xdehilite
+\i (01:06:15) xname_flush 
+\i (01:06:15) done 
+\i (01:06:15) generaledit 
+\e (01:06:16) Command not found: xhilite
+\i (01:06:16) xname_flush 
+\i (01:06:16) done 
+\i (01:06:16) generaledit 
+\e (01:06:20) Command not found: xdehilite
+\i (01:06:20) xname_flush 
+\i (01:06:20) done 
+\i (01:06:20) generaledit 
+\e (01:06:23) Command not found: xhilite
+\i (01:06:23) xname_flush 
+\i (01:06:23) done 
+\i (01:06:23) generaledit 
+\e (01:06:25) Command not found: xdehilite
+\i (01:06:25) xname_flush 
+\i (01:06:25) done 
+\i (01:06:25) generaledit 
+\e (01:06:26) Command not found: xhilite
+\i (01:06:26) xname_flush 
+\i (01:06:26) done 
+\i (01:06:26) generaledit 
+\e (01:06:36) Command not found: xdehilite
+\i (01:06:36) xname_flush 
+\i (01:06:36) done 
+\i (01:06:36) generaledit 
+\e (01:07:06) Command not found: xhilite
+\i (01:07:06) xname_flush 
+\i (01:07:06) done 
+\i (01:07:06) generaledit 
+\e (01:07:08) Command not found: xdehilite
+\i (01:07:08) xname_flush 
+\i (01:07:08) done 
+\i (01:07:08) generaledit 
+\e (01:07:12) Command not found: xdehilite
+\i (01:07:12) xname_flush 
+\i (01:07:12) done 
+\i (01:07:12) generaledit 
+\e (01:07:13) Command not found: xhilite
+\i (01:07:13) xname_flush 
+\i (01:07:13) done 
+\i (01:07:13) generaledit 
+\e (01:07:15) Command not found: xdehilite
+\i (01:07:15) xname_flush 
+\i (01:07:15) done 
+\i (01:07:15) generaledit 
+\e (01:07:19) Command not found: xhilite
+\i (01:07:19) xname_flush 
+\i (01:07:19) done 
+\i (01:07:19) generaledit 
+\e (01:07:20) Command not found: xdehilite
+\i (01:07:20) xname_flush 
+\i (01:07:20) done 
+\i (01:07:20) generaledit 
+\e (01:07:21) Command not found: xhilite
+\i (01:07:21) xname_flush 
+\i (01:07:21) done 
+\i (01:07:21) generaledit 
+\e (01:07:23) Command not found: xdehilite
+\i (01:07:23) xname_flush 
+\i (01:07:23) done 
+\i (01:07:23) generaledit 
+\e (01:07:27) Command not found: xhilite
+\i (01:07:27) xname_flush 
+\i (01:07:27) done 
+\i (01:07:27) generaledit 
+\e (01:07:28) Command not found: xdehilite
+\i (01:07:28) xname_flush 
+\i (01:07:28) done 
+\i (01:07:28) generaledit 
+\e (01:07:34) Command not found: xhilite
+\i (01:07:34) xname_flush 
+\i (01:07:34) done 
+\i (01:07:34) generaledit 
+\e (01:07:38) Command not found: xdehilite
+\i (01:07:38) xname_flush 
+\i (01:07:38) done 
+\i (01:07:38) generaledit 
+\e (01:08:03) Command not found: xhilite
+\i (01:08:03) xname_flush 
+\i (01:08:03) done 
+\i (01:08:03) generaledit 
+\e (01:08:07) Command not found: xdehilite
+\i (01:08:07) xname_flush 
+\i (01:08:07) done 
+\i (01:08:07) generaledit 
+\e (01:08:07) Command not found: xhilite
+\i (01:08:07) xname_flush 
+\i (01:08:07) done 
+\i (01:08:07) generaledit 
+\e (01:08:09) Command not found: xdehilite
+\i (01:08:09) xname_flush 
+\i (01:08:09) done 
+\i (01:08:09) generaledit 
+\e (01:08:38) Command not found: xhilite
+\i (01:08:38) xname_flush 
+\i (01:08:38) done 
+\i (01:08:38) generaledit 
+\e (01:08:40) Command not found: xdehilite
+\i (01:08:40) xname_flush 
+\i (01:08:40) done 
+\i (01:08:40) generaledit 
+\e (01:08:46) Command not found: xhilite
+\i (01:08:46) xname_flush 
+\i (01:08:46) done 
+\i (01:08:46) generaledit 
+\e (01:08:48) Command not found: xdehilite
+\i (01:08:48) xname_flush 
+\i (01:08:48) done 
+\i (01:08:48) generaledit 
+\e (01:09:30) Command not found: xhilite
+\i (01:09:30) xname_flush 
+\i (01:09:30) done 
+\i (01:09:30) generaledit 
+\e (01:09:31) Command not found: xdehilite
+\i (01:09:31) xname_flush 
+\i (01:09:31) done 
+\i (01:09:31) generaledit 
+\e (01:09:32) Command not found: xhilite
+\i (01:09:32) xname_flush 
+\i (01:09:32) done 
+\i (01:09:32) generaledit 
+\e (01:09:33) Command not found: xdehilite
+\i (01:09:33) xname_flush 
+\i (01:09:33) done 
+\i (01:09:33) generaledit 
+\e (01:09:38) Command not found: xhilite
+\i (01:09:38) xname_flush 
+\i (01:09:38) done 
+\i (01:09:38) generaledit 
+\e (01:09:39) Command not found: xdehilite
+\i (01:09:39) xname_flush 
+\i (01:09:39) done 
+\e (01:09:39) Command not found: xhilite
+\i (01:09:39) xname_flush 
+\e (01:09:39) No command active
+\i (01:09:39) done 
+\e (01:09:39) No command active
+\i (01:09:39) generaledit 
+\e (01:09:40) Command not found: xdehilite
+\i (01:09:40) xname_flush 
+\i (01:09:40) done 
+\i (01:09:40) generaledit 
+\i (02:10:42) new 
+\i (02:15:47) newdrawfillin "f130_170_40.dra" "Flash Symbol"
+\t (02:15:47)     Journal end - Sun Jan 24 17:18:09 2016

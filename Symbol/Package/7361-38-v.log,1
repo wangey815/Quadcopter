@@ -4,13 +4,13 @@
 (                                                                     )
 (    Drawing          : 7361-38-V.dra                                 )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Jan 19 17:22:28 2016                      )
+(    Date/Time        : Fri Jan 22 09:55:52 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/用户目录/我的文档/GitHub/Quadcopter/Footprint
+    Directory = D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package
     Name      = 7361-38-v.psm
     User      = Administrator
     Machine   = WEY

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SC0603.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jan 24 14:02:50 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Package
+    Name      = sc0603.psm
+    User      = Administrator
+    Machine   = WEY
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

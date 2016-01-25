@@ -1,0 +1,15 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Sun Jan 24 10:10:42 2016
+\t (00:00:00)         Host=WEY User=Administrator Pid=6360 CPUs=4
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Shape/shape0_6x0_4.dra
+\t (00:00:00) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:00) trapsize 436
+\i (00:00:00) trapsize 402
+\i (00:00:00) trapsize 442
+\i (00:00:01) trapsize 259
+\i (00:00:01) trapsize 259
+\i (00:00:02) generaledit 
+\i (01:55:07) exit 
+\t (01:55:07)     Journal end - Sun Jan 24 12:05:49 2016
