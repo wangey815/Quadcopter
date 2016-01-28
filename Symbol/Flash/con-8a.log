@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : CON-8A.dra                                    )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sun Jan 24 21:49:14 2016                      )
+(    Date/Time        : Mon Jan 25 22:00:43 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,6 +18,8 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-Create symbol completed.
+ERROR(SPMHA1-291): Create symbol has been aborted.
 

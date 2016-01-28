@@ -1,0 +1,43 @@
+\t (00:05:49) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:05:49)     Journal start - Wed Jan 27 14:32:44 2016
+\t (00:05:49)         Host=WEY User=Administrator Pid=6184 CPUs=4
+\t (00:05:49) 
+\d (00:05:49) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Flash/f130_170_40.dra
+\i (00:05:49) generaledit 
+\i (00:06:01) show measure 
+\i (00:06:02) pick grid -0.6573 -0.3189
+\t (00:06:02) last pick:  -0.6604  -0.3302
+\i (00:06:03) pick grid -0.3333 -0.6619
+\t (00:06:03) last pick:  -0.3302  -0.6604
+\i (00:06:11) setwindow text
+\i (00:06:11) close 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) prepopup -1.1432 -0.0903
+\i (00:06:12) done 
+\i (00:06:12) generaledit 
+\i (00:06:15) open 
+\i (00:07:01) fillin "f150_180_40.dra"
+\t (00:07:01) Opening existing design...
+\i (00:07:01) trapsize 238
+\d (00:07:01) Database opened: D:/用户目录/我的文档/GitHub/Quadcopter/Symbol/Flash/f150_180_40.dra
+\i (00:07:01) generaledit 
+\i (00:07:02) zoom in 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom in 0.0096 -0.4000
+\i (00:07:02) trapsize 119
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out 0.0192 -0.3738
+\i (00:07:03) trapsize 238
+\i (00:07:03) zoom out 1 
+\i (00:07:03) setwindow pcb
+\i (00:07:03) zoom out 0.0191 -0.3738
+\t (00:07:03) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:07:03) trapsize 476
+\i (00:07:05) save 
+\i (00:07:06) fillin yes 
+\t (00:07:08) Symbol 'f150_180_40.fsm' created.
+\i (00:07:08) generaledit 
+\i (00:12:13) new 
+\i (00:13:46) newdrawfillin "SW-4A.dra" "Package Symbol"
+\t (00:13:46)     Journal end - Wed Jan 27 14:40:41 2016

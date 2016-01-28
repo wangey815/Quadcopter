@@ -1,0 +1,141 @@
+(ExpressProject "Controller"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\library\controller.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\controller.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\controller.dsn")
+      (Path "Design Resources" ".\controller.dsn" "Controller")
+      (Path "Design Resources" ".\controller.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "..\library\controller.olb")
+      (Select "Design Resources" ".\controller.dsn" "Controller" "Controller"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 225"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 125 1257 125 392")
+        (Scroll "215 394")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path "D:\用户目录\我的文档\GITHUB\QUADCOPTER\SCH\CONTROLLER.DSN")
+      (Schematic "Controller")
+      (Page "Controller")))
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SW-KEY
+      (FullPartName "SW-KEY.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\CONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (ZTA
+      (FullPartName "ZTA.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (2N5551
+      (FullPartName "2N5551.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (SPEAKER
+      (FullPartName "SPEAKER.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5X2"
+      (FullPartName "HEADER 5X2.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\CONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("RESISTOR TAPPED"
+      (FullPartName "RESISTOR TAPPED.Normal")
+      (LibraryName
+         "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (NRF24L01
+      (FullPartName "NRF24L01.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\QUADCOPTER.OLB")
+      (DeviceIndex "0"))
+    (LP2985-3.3
+      (FullPartName "LP2985-3.3.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\QUADCOPTER.OLB")
+      (DeviceIndex "0"))
+    (BT1
+      (FullPartName "BT1.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\CONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (TP4057
+      (FullPartName "TP4057.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\QUADCOPTER.OLB")
+      (DeviceIndex "0"))
+    (USB
+      (FullPartName "USB.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\QUADCOPTER.OLB")
+      (DeviceIndex "0"))
+    (STM32F103CBT6
+      (FullPartName "STM32F103CBT6.Normal")
+      (LibraryName
+         "D:\用户目录\我的文档\GITHUB\QUADCOPTER\LIBRARY\QUADCOPTER.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock1
+      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\Cadence\SPB_16.6\tools\capture\library\oldlibs")
+  (MPSSessionName "Administrator"))
